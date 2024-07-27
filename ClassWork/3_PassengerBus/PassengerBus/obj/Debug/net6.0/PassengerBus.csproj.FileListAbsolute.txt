@@ -1,0 +1,14 @@
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\bin\Debug\net6.0\PassengerBus.exe
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\bin\Debug\net6.0\PassengerBus.deps.json
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\bin\Debug\net6.0\PassengerBus.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\bin\Debug\net6.0\PassengerBus.dll
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\bin\Debug\net6.0\PassengerBus.pdb
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\obj\Debug\net6.0\PassengerBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\obj\Debug\net6.0\PassengerBus.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\obj\Debug\net6.0\PassengerBus.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\obj\Debug\net6.0\PassengerBus.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\obj\Debug\net6.0\PassengerBus.dll
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\obj\Debug\net6.0\refint\PassengerBus.dll
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\obj\Debug\net6.0\PassengerBus.pdb
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\obj\Debug\net6.0\PassengerBus.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\PassengerBus\PassengerBus\obj\Debug\net6.0\ref\PassengerBus.dll

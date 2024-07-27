@@ -1,0 +1,14 @@
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\bin\Debug\net6.0\PremiumPrediction.exe
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\bin\Debug\net6.0\PremiumPrediction.deps.json
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\bin\Debug\net6.0\PremiumPrediction.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\bin\Debug\net6.0\PremiumPrediction.dll
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\bin\Debug\net6.0\PremiumPrediction.pdb
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\obj\Debug\net6.0\PremiumPrediction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\obj\Debug\net6.0\PremiumPrediction.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\obj\Debug\net6.0\PremiumPrediction.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\obj\Debug\net6.0\PremiumPrediction.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\obj\Debug\net6.0\PremiumPrediction.dll
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\obj\Debug\net6.0\refint\PremiumPrediction.dll
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\obj\Debug\net6.0\PremiumPrediction.pdb
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\obj\Debug\net6.0\PremiumPrediction.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\PremiumPrediction\PremiumPrediction\obj\Debug\net6.0\ref\PremiumPrediction.dll

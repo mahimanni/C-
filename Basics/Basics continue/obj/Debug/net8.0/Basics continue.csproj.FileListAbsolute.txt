@@ -1,0 +1,14 @@
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\obj\Debug\net8.0\Basics continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\obj\Debug\net8.0\Basics continue.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\obj\Debug\net8.0\Basics continue.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\obj\Debug\net8.0\Basics continue.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\bin\Debug\net8.0\Basics continue.exe
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\bin\Debug\net8.0\Basics continue.deps.json
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\bin\Debug\net8.0\Basics continue.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\bin\Debug\net8.0\Basics continue.dll
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\bin\Debug\net8.0\Basics continue.pdb
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\obj\Debug\net8.0\Basics continue.dll
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\obj\Debug\net8.0\refint\Basics continue.dll
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\obj\Debug\net8.0\Basics continue.pdb
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\obj\Debug\net8.0\Basics continue.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\Basics continue\Basics continue\obj\Debug\net8.0\ref\Basics continue.dll

@@ -1,0 +1,29 @@
+C:\Users\NPGC LAB 4\source\repos\Array\Array\bin\Debug\net8.0\Array.exe
+C:\Users\NPGC LAB 4\source\repos\Array\Array\bin\Debug\net8.0\Array.deps.json
+C:\Users\NPGC LAB 4\source\repos\Array\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\Array\Array\bin\Debug\net8.0\Array.dll
+C:\Users\NPGC LAB 4\source\repos\Array\Array\bin\Debug\net8.0\Array.pdb
+C:\Users\NPGC LAB 4\source\repos\Array\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\Array\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\Array\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\Array\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\Array\Array\obj\Debug\net8.0\Array.dll
+C:\Users\NPGC LAB 4\source\repos\Array\Array\obj\Debug\net8.0\refint\Array.dll
+C:\Users\NPGC LAB 4\source\repos\Array\Array\obj\Debug\net8.0\Array.pdb
+C:\Users\NPGC LAB 4\source\repos\Array\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\Array\Array\obj\Debug\net8.0\ref\Array.dll
+C:\Users\manni\source\repos\C#\Array\Array\bin\Debug\net8.0\Array.exe
+C:\Users\manni\source\repos\C#\Array\Array\bin\Debug\net8.0\Array.deps.json
+C:\Users\manni\source\repos\C#\Array\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+C:\Users\manni\source\repos\C#\Array\Array\bin\Debug\net8.0\Array.dll
+C:\Users\manni\source\repos\C#\Array\Array\bin\Debug\net8.0\Array.pdb
+C:\Users\manni\source\repos\C#\Array\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\C#\Array\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\C#\Array\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+C:\Users\manni\source\repos\C#\Array\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\C#\Array\Array\obj\Debug\net8.0\Array.sourcelink.json
+C:\Users\manni\source\repos\C#\Array\Array\obj\Debug\net8.0\Array.dll
+C:\Users\manni\source\repos\C#\Array\Array\obj\Debug\net8.0\refint\Array.dll
+C:\Users\manni\source\repos\C#\Array\Array\obj\Debug\net8.0\Array.pdb
+C:\Users\manni\source\repos\C#\Array\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+C:\Users\manni\source\repos\C#\Array\Array\obj\Debug\net8.0\ref\Array.dll

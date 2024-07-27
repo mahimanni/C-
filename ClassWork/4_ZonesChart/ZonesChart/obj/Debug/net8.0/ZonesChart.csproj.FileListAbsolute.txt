@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\bin\Debug\net8.0\ZonesChart.exe
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\bin\Debug\net8.0\ZonesChart.deps.json
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\bin\Debug\net8.0\ZonesChart.runtimeconfig.json
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\bin\Debug\net8.0\ZonesChart.dll
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\bin\Debug\net8.0\ZonesChart.pdb
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\obj\Debug\net8.0\ZonesChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\obj\Debug\net8.0\ZonesChart.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\obj\Debug\net8.0\ZonesChart.AssemblyInfo.cs
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\obj\Debug\net8.0\ZonesChart.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\obj\Debug\net8.0\ZonesChart.dll
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\obj\Debug\net8.0\refint\ZonesChart.dll
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\obj\Debug\net8.0\ZonesChart.pdb
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\obj\Debug\net8.0\ZonesChart.genruntimeconfig.cache
+C:\Users\manni\source\repos\ZonesChart\ZonesChart\obj\Debug\net8.0\ref\ZonesChart.dll

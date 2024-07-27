@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\obj\Debug\net8.0\OneSingleArray-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\obj\Debug\net8.0\OneSingleArray-10.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\obj\Debug\net8.0\OneSingleArray-10.AssemblyInfo.cs
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\obj\Debug\net8.0\OneSingleArray-10.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\bin\Debug\net8.0\OneSingleArray-10.exe
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\bin\Debug\net8.0\OneSingleArray-10.deps.json
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\bin\Debug\net8.0\OneSingleArray-10.runtimeconfig.json
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\bin\Debug\net8.0\OneSingleArray-10.dll
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\bin\Debug\net8.0\OneSingleArray-10.pdb
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\obj\Debug\net8.0\OneSingleArray-10.dll
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\obj\Debug\net8.0\refint\OneSingleArray-10.dll
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\obj\Debug\net8.0\OneSingleArray-10.pdb
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\obj\Debug\net8.0\OneSingleArray-10.genruntimeconfig.cache
+C:\Users\manni\source\repos\SingleDimensionalArray-10\OneSingleArray-10\obj\Debug\net8.0\ref\OneSingleArray-10.dll
