@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\bin\Debug\net8.0\0ii_CircularPrimeNumber.exe
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\bin\Debug\net8.0\0ii_CircularPrimeNumber.deps.json
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\bin\Debug\net8.0\0ii_CircularPrimeNumber.runtimeconfig.json
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\bin\Debug\net8.0\0ii_CircularPrimeNumber.dll
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\bin\Debug\net8.0\0ii_CircularPrimeNumber.pdb
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\obj\Debug\net8.0\0ii_CircularPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\obj\Debug\net8.0\0ii_CircularPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\obj\Debug\net8.0\0ii_CircularPrimeNumber.AssemblyInfo.cs
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\obj\Debug\net8.0\0ii_CircularPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\obj\Debug\net8.0\0ii_CircularPrimeNumber.dll
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\obj\Debug\net8.0\refint\0ii_CircularPrimeNumber.dll
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\obj\Debug\net8.0\0ii_CircularPrimeNumber.pdb
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\obj\Debug\net8.0\0ii_CircularPrimeNumber.genruntimeconfig.cache
+C:\Users\manni\source\repos\0ii_CircularPrimeNumber\0ii_CircularPrimeNumber\obj\Debug\net8.0\ref\0ii_CircularPrimeNumber.dll

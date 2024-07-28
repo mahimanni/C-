@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "0ii_CircularPrimeNumber/1.0.0": {
+        "runtime": {
+          "0ii_CircularPrimeNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0ii_CircularPrimeNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\bin\Debug\net8.0\0i_GoldBachNumber.exe
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\bin\Debug\net8.0\0i_GoldBachNumber.deps.json
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\bin\Debug\net8.0\0i_GoldBachNumber.runtimeconfig.json
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\bin\Debug\net8.0\0i_GoldBachNumber.dll
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\bin\Debug\net8.0\0i_GoldBachNumber.pdb
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\obj\Debug\net8.0\0i_GoldBachNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\obj\Debug\net8.0\0i_GoldBachNumber.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\obj\Debug\net8.0\0i_GoldBachNumber.AssemblyInfo.cs
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\obj\Debug\net8.0\0i_GoldBachNumber.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\obj\Debug\net8.0\0i_GoldBachNumber.dll
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\obj\Debug\net8.0\refint\0i_GoldBachNumber.dll
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\obj\Debug\net8.0\0i_GoldBachNumber.pdb
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\obj\Debug\net8.0\0i_GoldBachNumber.genruntimeconfig.cache
+C:\Users\manni\source\repos\0i_GoldBachNumber\0i_GoldBachNumber\obj\Debug\net8.0\ref\0i_GoldBachNumber.dll

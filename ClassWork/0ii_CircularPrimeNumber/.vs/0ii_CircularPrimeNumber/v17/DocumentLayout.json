@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\0ii_CircularPrimeNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D290245-1D86-4B73-9A51-A934F0BA6043}|0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber.csproj|c:\\users\\manni\\source\\repos\\0ii_circularprimenumber\\0ii_circularprimenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D290245-1D86-4B73-9A51-A934F0BA6043}|0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber.csproj|solutionrelative:0ii_circularprimenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber\\Program.cs",
+              "RelativeDocumentMoniker": "0ii_CircularPrimeNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber\\Program.cs",
+              "RelativeToolTip": "0ii_CircularPrimeNumber\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T05:59:42.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
