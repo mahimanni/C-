@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber.csproj",
+      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\ClassWork\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber.csproj",
       "projectName": "0ii_CircularPrimeNumber",
-      "projectPath": "C:\\Users\\manni\\source\\repos\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber.csproj",
+      "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\ClassWork\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber.csproj",
       "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manni\\source\\repos\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber\\obj\\",
+      "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\ClassWork\\0ii_CircularPrimeNumber\\0ii_CircularPrimeNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

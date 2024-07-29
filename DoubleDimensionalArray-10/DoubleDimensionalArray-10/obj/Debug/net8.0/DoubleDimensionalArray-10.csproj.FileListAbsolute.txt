@@ -1,0 +1,43 @@
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.exe
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.deps.json
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.dll
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.pdb
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.dll
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\refint\DoubleDimensionalArray-10.dll
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.pdb
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\ref\DoubleDimensionalArray-10.dll
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.exe
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.deps.json
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.runtimeconfig.json
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.dll
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.pdb
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.AssemblyInfoInputs.cache
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.AssemblyInfo.cs
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.csproj.CoreCompileInputs.cache
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.dll
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\refint\DoubleDimensionalArray-10.dll
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.pdb
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.genruntimeconfig.cache
+D:\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\ref\DoubleDimensionalArray-10.dll
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.exe
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.deps.json
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.runtimeconfig.json
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.dll
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\bin\Debug\net8.0\DoubleDimensionalArray-10.pdb
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.AssemblyInfo.cs
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.sourcelink.json
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.dll
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\refint\DoubleDimensionalArray-10.dll
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.pdb
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\DoubleDimensionalArray-10.genruntimeconfig.cache
+C:\Users\manni\source\repos\C#\DoubleDimensionalArray-10\DoubleDimensionalArray-10\obj\Debug\net8.0\ref\DoubleDimensionalArray-10.dll
