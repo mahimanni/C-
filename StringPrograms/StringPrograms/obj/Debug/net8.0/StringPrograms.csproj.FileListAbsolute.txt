@@ -1,0 +1,29 @@
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.exe
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.deps.json
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.dll
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.pdb
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.dll
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\obj\Debug\net8.0\refint\StringPrograms.dll
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.pdb
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\StringPrograms\StringPrograms\obj\Debug\net8.0\ref\StringPrograms.dll
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.exe
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.deps.json
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.runtimeconfig.json
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.dll
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\bin\Debug\net8.0\StringPrograms.pdb
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.AssemblyInfo.cs
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.sourcelink.json
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.dll
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\obj\Debug\net8.0\refint\StringPrograms.dll
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.pdb
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\obj\Debug\net8.0\StringPrograms.genruntimeconfig.cache
+C:\Users\manni\source\repos\C#\StringPrograms\StringPrograms\obj\Debug\net8.0\ref\StringPrograms.dll
