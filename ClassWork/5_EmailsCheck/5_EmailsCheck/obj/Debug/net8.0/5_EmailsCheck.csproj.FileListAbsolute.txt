@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\bin\Debug\net8.0\5_EmailsCheck.exe
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\bin\Debug\net8.0\5_EmailsCheck.deps.json
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\bin\Debug\net8.0\5_EmailsCheck.runtimeconfig.json
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\bin\Debug\net8.0\5_EmailsCheck.dll
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\bin\Debug\net8.0\5_EmailsCheck.pdb
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\obj\Debug\net8.0\5_EmailsCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\obj\Debug\net8.0\5_EmailsCheck.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\obj\Debug\net8.0\5_EmailsCheck.AssemblyInfo.cs
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\obj\Debug\net8.0\5_EmailsCheck.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\obj\Debug\net8.0\5_EmailsCheck.dll
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\obj\Debug\net8.0\refint\5_EmailsCheck.dll
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\obj\Debug\net8.0\5_EmailsCheck.pdb
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\obj\Debug\net8.0\5_EmailsCheck.genruntimeconfig.cache
+C:\Users\manni\source\repos\5_EmailsCheck\5_EmailsCheck\obj\Debug\net8.0\ref\5_EmailsCheck.dll
