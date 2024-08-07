@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\bin\Debug\net8.0\WithoutProperties.exe
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\bin\Debug\net8.0\WithoutProperties.deps.json
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\bin\Debug\net8.0\WithoutProperties.runtimeconfig.json
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\bin\Debug\net8.0\WithoutProperties.dll
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\bin\Debug\net8.0\WithoutProperties.pdb
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\obj\Debug\net8.0\WithoutProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\obj\Debug\net8.0\WithoutProperties.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\obj\Debug\net8.0\WithoutProperties.AssemblyInfo.cs
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\obj\Debug\net8.0\WithoutProperties.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\obj\Debug\net8.0\WithoutProperties.dll
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\obj\Debug\net8.0\refint\WithoutProperties.dll
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\obj\Debug\net8.0\WithoutProperties.pdb
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\obj\Debug\net8.0\WithoutProperties.genruntimeconfig.cache
+C:\Users\manni\source\repos\WithoutProperties\WithoutProperties\obj\Debug\net8.0\ref\WithoutProperties.dll

@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\WithProperty\WithProperty\obj\Debug\net8.0\WithProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\WithProperty\WithProperty\obj\Debug\net8.0\WithProperty.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\WithProperty\WithProperty\obj\Debug\net8.0\WithProperty.AssemblyInfo.cs
+C:\Users\manni\source\repos\WithProperty\WithProperty\obj\Debug\net8.0\WithProperty.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\WithProperty\WithProperty\bin\Debug\net8.0\WithProperty.exe
+C:\Users\manni\source\repos\WithProperty\WithProperty\bin\Debug\net8.0\WithProperty.deps.json
+C:\Users\manni\source\repos\WithProperty\WithProperty\bin\Debug\net8.0\WithProperty.runtimeconfig.json
+C:\Users\manni\source\repos\WithProperty\WithProperty\bin\Debug\net8.0\WithProperty.dll
+C:\Users\manni\source\repos\WithProperty\WithProperty\bin\Debug\net8.0\WithProperty.pdb
+C:\Users\manni\source\repos\WithProperty\WithProperty\obj\Debug\net8.0\WithProperty.dll
+C:\Users\manni\source\repos\WithProperty\WithProperty\obj\Debug\net8.0\refint\WithProperty.dll
+C:\Users\manni\source\repos\WithProperty\WithProperty\obj\Debug\net8.0\WithProperty.pdb
+C:\Users\manni\source\repos\WithProperty\WithProperty\obj\Debug\net8.0\WithProperty.genruntimeconfig.cache
+C:\Users\manni\source\repos\WithProperty\WithProperty\obj\Debug\net8.0\ref\WithProperty.dll
