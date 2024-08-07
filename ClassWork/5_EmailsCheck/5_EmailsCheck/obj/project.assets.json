@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\5_EmailsCheck\\5_EmailsCheck\\5_EmailsCheck.csproj",
+      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\ClassWork\\5_EmailsCheck\\5_EmailsCheck\\5_EmailsCheck.csproj",
       "projectName": "5_EmailsCheck",
-      "projectPath": "C:\\Users\\manni\\source\\repos\\5_EmailsCheck\\5_EmailsCheck\\5_EmailsCheck.csproj",
+      "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\ClassWork\\5_EmailsCheck\\5_EmailsCheck\\5_EmailsCheck.csproj",
       "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manni\\source\\repos\\5_EmailsCheck\\5_EmailsCheck\\obj\\",
+      "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\ClassWork\\5_EmailsCheck\\5_EmailsCheck\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

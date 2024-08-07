@@ -8,12 +8,28 @@ namespace stringPrograms{
             //display(inputString());//displaying the string that the user entered
             //Console.WriteLine("Length of the string is: "+findLength(inputString()));
             //separateChar(inputString());
-            //totalWords(inputString());
+            //totalWords(inputString());//also finding largest and smallest word in the string
 
             //changeCase(inputString());
             //replaceVowels(inputString());
             //addTwoCapital(inputString());
-            capitalAlphabeticOrder(inputString());
+            //capitalAlphabeticOrder(inputString());
+
+            //compareStrings(inputString(), inputString());
+            //countAlphaDigitSpecChar(inputString());
+            //copyString(inputString());
+
+            //freqEachChar(inputString());
+            //findMaxChar(inputString());
+            //sortStringArray();
+            //bubbleSortString(inputString());
+
+            //extractSubstring(inputString());
+            //checkString(inputString());
+            //findNoOfTimesWord(inputString());
+            //combineTwoStrings(inputString(), inputString());
+
+            //printOnlyBeforeNewLine(inputString());
         }
 
         //1. to input a string 
@@ -75,12 +91,17 @@ namespace stringPrograms{
             }
         }
 
-        //5. to count the total number of words in a string.
+        //5. to count the total number of words in a string
+        // also finding largest and smallest word in the string
         public static void totalWords(string str)
         {
             string word="";
             int count = 0;
             str += " ";//so that the last word can be added
+
+            string largest=str, smallest=str;
+            int countL = 0, countS= str.Length;
+
             Console.WriteLine("The words of the string are:");
             for(int i=0;i<str.Length;i++)
             {
@@ -90,12 +111,23 @@ namespace stringPrograms{
                 }
                 else
                 {
+                    if (word.Length < countS)
+                    {
+                        smallest = word;
+                        countS = word.Length;
+                    }
+                    if (word.Length > countL)
+                    {
+                        largest = word;
+                        countL = word.Length;
+                    }
                     Console.WriteLine(word);
                     count++;
                     word = "";
                 }
             }
             Console.WriteLine("\nThe total no of words in the string " + str + " are: " + count);
+            Console.WriteLine("Largest word= {0}\nSmallest word= {1}",largest,smallest);
         }
 
         //6. changing uppercase to lowercase and lowercase to uppercase
@@ -187,13 +219,13 @@ namespace stringPrograms{
             Console.WriteLine(newstr+" is the Modified string");
         }
    
-        //9. Convert word in capital and arrange in A-Z order
+        //9. Convert word in capital and arrange in A-Z order(sort)
         public static void capitalAlphabeticOrder(string str)
         {
             Console.WriteLine("\nConverting word in capital and then arranging in A-Z order");
             Console.WriteLine("Given word: " + str);
 
-            int val;
+            //int val;
             string capitalstr = "", sortedstr="";
             for(int i=0;i< str.Length; i++)
             {
@@ -217,5 +249,350 @@ namespace stringPrograms{
             }
             Console.WriteLine("Word after sorting: " + sortedstr);
         }
+
+        //10. to compare two strings without using string library functions
+        public static void compareStrings(string str1, string str2)
+        {
+            int flag = 0;
+            if (str1.Length != str2.Length)
+            {
+                Console.WriteLine("\nStrings are not equal");
+            }
+            else
+            {
+                for(int i = 0; i < str1.Length; i++)
+                {
+                    if (str1[i] != str2[i])
+                    {
+                        flag = 1;
+                        break;
+                    }
+                }
+                if(flag==0)
+                 Console.WriteLine("\nStrings "+str1+" and "+str2+" are equal");
+            }
+        }
+
+        //11. to count the total number of alphabets, digits and special characters in a string
+        public static void countAlphaDigitSpecChar(string str)
+        {
+            int countAlpha = 0, countDigit = 0, countSpecChar = 0;
+            for(int i = 0; i < str.Length; i++)
+            {
+                if ((str[i] >= 65 && str[i] <= 90) || (str[i] >= 97 && str[i] <= 122))
+                    countAlpha++;
+                else if (str[i] >= 48 && str[i] <= 57)
+                    countDigit++;
+                else
+                    countSpecChar++;
+            }
+            Console.WriteLine("No of alphabets: " + countAlpha);
+            Console.WriteLine("No of digits: " + countDigit);
+            Console.WriteLine("No of special characters: " + countSpecChar);
+        }
+
+        //12. copy one string to another string
+        public static void copyString(string str)
+        {
+            string copiedstr = "";
+            int count = 0;
+
+            for(int i = 0; i < str.Length; i++)
+            {
+                copiedstr += str[i];
+                count++;
+            }
+            Console.WriteLine("The copied string is: " + copiedstr);
+            Console.WriteLine("No of characters copied: " + count);
+        }
+
+        //13. count frequency of each character in a given string
+        public static void freqEachChar(string str)
+        {
+            string newstr = "";
+            char ch;
+            int i, j, count;
+            for(i = 0; i < str.Length; i++)
+            {
+                ch = str[i];
+                count = 0;
+                if (str.IndexOf(ch) == i)//going only for first occurrence
+                {
+                    for (j = i; j < str.Length; j++)//checking that first occurrence have any more occurrences or not for calc freq
+                    {
+                        if (newstr.IndexOf(ch) != -1)
+                        {
+                            if (ch == str[j])
+                             count++;
+                        }
+                        else{
+                            newstr += ch;
+                            count = 1;//for first time it is not present in newstr so adding it and making it's freq 1
+                        }
+                    }
+                    Console.WriteLine("Frequency of char " + ch + " is: " + count);
+                }
+            }
+        }
+
+        //14. to find the maximum number of characters in a string
+        public static void findMaxChar(string str)
+        {
+            string newstr = "";
+            char ch,maxchar=' ';
+            int i, j, count,maxcount=0;
+            for (i = 0; i < str.Length; i++)
+            {
+                ch = str[i];
+                count = 0;
+                if (str.IndexOf(ch) == i)//going only for first occurrence
+                {
+                    for (j = i; j < str.Length; j++)//checking that first occurrence have any more occurrences or not for calc freq
+                    {
+                        if (newstr.IndexOf(ch) != -1)
+                        {
+                            if (ch == str[j])
+                                count++;
+                        }
+                        else
+                        {
+                            newstr += ch;
+                            count = 1;//for first time it is not present in newstr so adding it and making it's freq 1
+                        }
+                    }
+                    Console.WriteLine("Frequency of char " + ch + " is: " + count);
+                    if (count > maxcount)
+                    {
+                        maxcount = count;
+                        maxchar = ch;
+                    }
+                }
+            }
+            Console.WriteLine("Highest freq char is {0} and appears {1} number of times", maxchar, maxcount);
+        }
+
+        //15. sort a string array in ascending order
+        public static void sortStringArray()
+        {
+            string temp;
+
+            Console.WriteLine("Enter no of elts of string array:");
+            int n = Convert.ToInt32(Console.ReadLine());
+            string[] strarr = new string[n];
+            Console.WriteLine("Enter string elements of array:");
+
+            for(int i = 0; i < n; i++)
+            {
+                strarr[i] = Console.ReadLine();
+            }
+
+            for(int i = 0; i < n; i++)
+            {
+                for(int j = 0; j < n - 1 - i; j++)
+                {
+                    if (strarr[j].CompareTo(strarr[j + 1]) > 0)//if first string greater than second string
+                    {
+                        temp=strarr[j];
+                        strarr[j] = strarr[j + 1];
+                        strarr[j + 1] = temp;
+                    }
+                }
+            }
+
+            Console.WriteLine("After sorting the string array in ascending order: ");
+            for(int i = 0; i < n; i++)
+            {
+                Console.WriteLine(strarr[i]);
+            }
+        }
+
+        //16. read a string from the keyboard and sort it using bubble sort
+        public static void bubbleSortString(string str)
+        {
+            string sortedStr = "";
+
+            //normal sort clever way but have to arrange all the elts in capital or lower.... here we have a capital string
+            /*
+            for (int i = 65; i <= 90; i++)
+            {
+                for(int j = 0; j < str.Length; j++)
+                {
+                    if ((char)i == str[j])
+                        sortedStr += (char)i;
+                }
+            }
+            */
+
+            //using bubble sort now no boundation of capital or lower cases here
+            char t;
+
+            //first converting string into character array
+            int n = str.Length;
+            char[] chArr = new char[n];
+            for(int i = 0; i < n; i++)
+            {
+                chArr[i] = str[i];
+            }
+
+            //sorting the char array using bubble sort
+            for (int i = 0; i < n; i++)
+            {
+                for(int j = 0; j < n - 1 - i; j++)
+                {
+                    if (chArr[j] > chArr[j + 1])
+                    {
+                        t = chArr[j];
+                        chArr[j] = chArr[j + 1];
+                        chArr[j + 1] = t;
+                    }
+                }
+            }
+
+            //converting char array into string
+            for(int i = 0; i < n; i++)
+            {
+                sortedStr += chArr[i];
+            }
+
+            Console.WriteLine("After sorting {0} string, we get {1}", str, sortedStr);
+        }
+
+        //17. extract a substring from a given string
+        public static void extractSubstring(string str)
+        {
+            string extractedSubstring="";
+
+            Console.Write("Input the position to start extraction : ");
+            int extractPos = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input the length of substring: ");
+            int len = Convert.ToInt32(Console.ReadLine());
+
+            for(int i = 0; i < str.Length; i++)
+            {
+                if (i == extractPos - 1)
+                {
+                    int pos = i;
+                    while (i < pos + len)
+                    {
+                        extractedSubstring += str[i];
+                        i++;
+                    }
+                    break;
+                }
+            }
+            Console.WriteLine("\nSubstring: "+str.Substring(extractPos-1,len));//using inbuilt method
+            Console.WriteLine("\nThe substring extracted from '{0}' from position {1} is {2}", str, extractPos, extractedSubstring);
+        }
+
+        //18. check whether a substring is present in a string
+        public static void checkString(string str)
+        {
+            Console.WriteLine("Enter the substring to be searched: ");
+            string toCheckStr = Console.ReadLine();
+
+            int i, j, counteri,flag=0,found=0;
+            for(i = 0; i < str.Length; i++)
+            {
+                flag = 0;
+                if (str[i] == toCheckStr[0])
+                {
+                    counteri = i;
+                    j = 0;
+                    while (j < toCheckStr.Length)
+                    {
+                        if (str[counteri]!= toCheckStr[j])
+                        {
+                            flag = 1;
+                            break;
+                        }
+                        counteri++;
+                        j++;
+                    }
+                    if (flag == 0)
+                    {
+                        Console.WriteLine("String '{0}' is found at position '{1}'", toCheckStr, (i+1));
+                        found = 1;
+                        break;
+                    }
+                }
+            }
+            if(found==0)
+                Console.WriteLine("String '{0}' does not exists in the string '{1}'", toCheckStr, str);
+
+            //using inbuilt method
+            Console.WriteLine("\nUsing inbuilt methods: ");
+            if (str.IndexOf(toCheckStr) == -1)
+            {
+                Console.WriteLine("Substring does not exists in the main string");
+            }
+            else
+            {
+                Console.WriteLine("Substring found at pos " + (str.IndexOf(toCheckStr) + 1));
+            }
+        }
+
+        //19. find the number of times a given word entered by user appears in the given string
+        public static void findNoOfTimesWord(string str)
+        {
+            Console.WriteLine("Enter the word whose appearance has to be checked:");
+            string word = Console.ReadLine();
+            Console.WriteLine("\n");
+
+            int i, j, counteri,flag,found=0,count=0;
+            for (i = 0; i < str.Length; i++)
+            {
+                flag = 0;
+                if (str[i] == word[0])
+                {
+                    j = 0;
+                    counteri = i;
+                    while (j < word.Length)
+                    {
+                        if (str[counteri] != word[j])
+                        {
+                            flag = 1;
+                            break;
+                        }
+                        counteri++;
+                        j++;
+                    }
+                    if (flag == 0)
+                    {
+                        count++;
+                        Console.WriteLine("Occurrence found at: "+(i+1));
+                        found = 1;
+                    }
+                }
+            }
+            if (found == 0)
+                Console.WriteLine("Word '{0}' has not appeared anywhere in the string '{1}'",word,str);
+            else
+                Console.WriteLine("The word has appeared " + count + " no of times");
+        }
+
+        //20. combine two strings
+        public static void combineTwoStrings(string m, string p)
+        {
+            Console.WriteLine("\nCombining using .Concat func: "+ string.Concat(m,p));
+
+            Console.WriteLine("Combining using '+' operator: "+ m + p);
+
+            string combine = "";
+            for (int i = 0; i < m.Length; i++)
+                combine += m[i];
+            for (int i = 0; i < p.Length; i++)
+                combine += p[i];
+            Console.WriteLine("Combining manually: "+ combine);
+        }
+
+        //21.  print only the string before the new line character
+        /*public static void printOnlyBeforeNewLine(string str)
+        {
+            string t = "",newStr="";
+            int flag = 0;
+            
+            //while()
+            Console.WriteLine("String before the new line character: " + newStr);
+        }*/
     }
 }
