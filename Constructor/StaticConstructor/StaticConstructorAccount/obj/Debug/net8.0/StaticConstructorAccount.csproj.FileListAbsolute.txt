@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\bin\Debug\net8.0\StaticConstructorAccount.exe
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\bin\Debug\net8.0\StaticConstructorAccount.deps.json
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\bin\Debug\net8.0\StaticConstructorAccount.runtimeconfig.json
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\bin\Debug\net8.0\StaticConstructorAccount.dll
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\bin\Debug\net8.0\StaticConstructorAccount.pdb
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\obj\Debug\net8.0\StaticConstructorAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\obj\Debug\net8.0\StaticConstructorAccount.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\obj\Debug\net8.0\StaticConstructorAccount.AssemblyInfo.cs
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\obj\Debug\net8.0\StaticConstructorAccount.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\obj\Debug\net8.0\StaticConstructorAccount.dll
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\obj\Debug\net8.0\refint\StaticConstructorAccount.dll
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\obj\Debug\net8.0\StaticConstructorAccount.pdb
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\obj\Debug\net8.0\StaticConstructorAccount.genruntimeconfig.cache
+C:\Users\manni\source\repos\StaticConstructorAccount\StaticConstructorAccount\obj\Debug\net8.0\ref\StaticConstructorAccount.dll

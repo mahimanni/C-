@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.AssemblyInfo.cs
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\bin\Debug\net8.0\PrivateConstructor.exe
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\bin\Debug\net8.0\PrivateConstructor.deps.json
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\bin\Debug\net8.0\PrivateConstructor.runtimeconfig.json
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\bin\Debug\net8.0\PrivateConstructor.dll
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\bin\Debug\net8.0\PrivateConstructor.pdb
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.dll
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\obj\Debug\net8.0\refint\PrivateConstructor.dll
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.pdb
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\obj\Debug\net8.0\PrivateConstructor.genruntimeconfig.cache
+C:\Users\manni\source\repos\PrivateConstructor\PrivateConstructor\obj\Debug\net8.0\ref\PrivateConstructor.dll
