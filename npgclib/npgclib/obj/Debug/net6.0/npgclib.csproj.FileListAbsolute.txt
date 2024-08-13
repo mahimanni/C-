@@ -1,0 +1,11 @@
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\obj\Debug\net6.0\npgclib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\obj\Debug\net6.0\npgclib.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\obj\Debug\net6.0\npgclib.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\obj\Debug\net6.0\npgclib.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\bin\Debug\net6.0\npgclib.deps.json
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\bin\Debug\net6.0\npgclib.dll
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\bin\Debug\net6.0\npgclib.pdb
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\obj\Debug\net6.0\npgclib.dll
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\obj\Debug\net6.0\refint\npgclib.dll
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\obj\Debug\net6.0\npgclib.pdb
+C:\Users\NPGC LAB 4\source\repos\npgclib\npgclib\obj\Debug\net6.0\ref\npgclib.dll

@@ -29,7 +29,7 @@ namespace stringPrograms{
             //findNoOfTimesWord(inputString());
             //combineTwoStrings(inputString(), inputString());
 
-            //printOnlyBeforeNewLine(inputString());
+            printOnlyBeforeNewLine(inputString());
         }
 
         //1. to input a string 
@@ -586,13 +586,32 @@ namespace stringPrograms{
         }
 
         //21.  print only the string before the new line character
-        /*public static void printOnlyBeforeNewLine(string str)
+        public static void printOnlyBeforeNewLine(string str)
         {
             string t = "",newStr="";
             int flag = 0;
-            
-            //while()
+
+            for (int i = 0; i < str.Length-1; i++)
+            {
+                t+= str[i];
+                t+= str[i + 1];
+                Console.WriteLine(i + " " + t);
+                if (t.Equals("\n"))//t == "\n"
+                {
+                    flag = i;
+                    break;
+                }
+                else
+                {
+                    newStr += str[i];
+                }
+                t = "";
+            }
+            if (flag != str.Length - 1)
+            {
+                newStr += str[str.Length - 1];
+            }
             Console.WriteLine("String before the new line character: " + newStr);
-        }*/
+        }
     }
 }
