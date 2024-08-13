@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\bin\Debug\net8.0\StaticConstructor2.exe
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\bin\Debug\net8.0\StaticConstructor2.deps.json
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\bin\Debug\net8.0\StaticConstructor2.runtimeconfig.json
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\bin\Debug\net8.0\StaticConstructor2.dll
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\bin\Debug\net8.0\StaticConstructor2.pdb
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\obj\Debug\net8.0\StaticConstructor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\obj\Debug\net8.0\StaticConstructor2.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\obj\Debug\net8.0\StaticConstructor2.AssemblyInfo.cs
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\obj\Debug\net8.0\StaticConstructor2.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\obj\Debug\net8.0\StaticConstructor2.dll
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\obj\Debug\net8.0\refint\StaticConstructor2.dll
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\obj\Debug\net8.0\StaticConstructor2.pdb
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\obj\Debug\net8.0\StaticConstructor2.genruntimeconfig.cache
+C:\Users\manni\source\repos\StaticConstructor2\StaticConstructor2\obj\Debug\net8.0\ref\StaticConstructor2.dll

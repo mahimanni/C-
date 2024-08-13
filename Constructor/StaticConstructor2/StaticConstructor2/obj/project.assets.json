@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\Constructor\\StaticConstructor\\StaticConstructorAccount\\StaticConstructorAccount.csproj",
-      "projectName": "StaticConstructorAccount",
-      "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\Constructor\\StaticConstructor\\StaticConstructorAccount\\StaticConstructorAccount.csproj",
+      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\StaticConstructor2\\StaticConstructor2\\StaticConstructor2.csproj",
+      "projectName": "StaticConstructor2",
+      "projectPath": "C:\\Users\\manni\\source\\repos\\StaticConstructor2\\StaticConstructor2\\StaticConstructor2.csproj",
       "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\Constructor\\StaticConstructor\\StaticConstructorAccount\\obj\\",
+      "outputPath": "C:\\Users\\manni\\source\\repos\\StaticConstructor2\\StaticConstructor2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",
