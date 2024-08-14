@@ -1,0 +1,12 @@
+C:\Users\manni\source\repos\numbersLib\numbersLib\obj\Debug\net8.0\numbersLib.csproj.AssemblyReference.cache
+C:\Users\manni\source\repos\numbersLib\numbersLib\obj\Debug\net8.0\numbersLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\numbersLib\numbersLib\obj\Debug\net8.0\numbersLib.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\numbersLib\numbersLib\obj\Debug\net8.0\numbersLib.AssemblyInfo.cs
+C:\Users\manni\source\repos\numbersLib\numbersLib\obj\Debug\net8.0\numbersLib.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\numbersLib\numbersLib\obj\Debug\net8.0\numbersLib.csproj.Up2Date
+C:\Users\manni\source\repos\numbersLib\numbersLib\obj\Debug\net8.0\numbersLib.dll
+C:\Users\manni\source\repos\numbersLib\numbersLib\obj\Debug\net8.0\refint\numbersLib.dll
+C:\Users\manni\source\repos\numbersLib\numbersLib\obj\Debug\net8.0\numbersLib.pdb
+C:\Users\manni\source\repos\numbersLib\numbersLib\bin\Debug\net8.0\numbersLib.deps.json
+C:\Users\manni\source\repos\numbersLib\numbersLib\bin\Debug\net8.0\numbersLib.pdb
+C:\Users\manni\source\repos\numbersLib\numbersLib\obj\Debug\net8.0\ref\numbersLib.dll

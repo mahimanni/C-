@@ -1,0 +1,11 @@
+C:\Users\manni\source\repos\stringsLib\stringsLib\bin\Debug\net8.0\stringsLib.deps.json
+C:\Users\manni\source\repos\stringsLib\stringsLib\bin\Debug\net8.0\stringsLib.dll
+C:\Users\manni\source\repos\stringsLib\stringsLib\bin\Debug\net8.0\stringsLib.pdb
+C:\Users\manni\source\repos\stringsLib\stringsLib\obj\Debug\net8.0\stringsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\stringsLib\stringsLib\obj\Debug\net8.0\stringsLib.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\stringsLib\stringsLib\obj\Debug\net8.0\stringsLib.AssemblyInfo.cs
+C:\Users\manni\source\repos\stringsLib\stringsLib\obj\Debug\net8.0\stringsLib.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\stringsLib\stringsLib\obj\Debug\net8.0\stringsLib.dll
+C:\Users\manni\source\repos\stringsLib\stringsLib\obj\Debug\net8.0\refint\stringsLib.dll
+C:\Users\manni\source\repos\stringsLib\stringsLib\obj\Debug\net8.0\stringsLib.pdb
+C:\Users\manni\source\repos\stringsLib\stringsLib\obj\Debug\net8.0\ref\stringsLib.dll
