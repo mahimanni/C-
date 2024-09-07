@@ -1,0 +1,14 @@
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\net6.0\Multiple.exe
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\net6.0\Multiple.deps.json
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\net6.0\Multiple.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\net6.0\Multiple.dll
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\bin\Debug\net6.0\Multiple.pdb
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\Multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\Multiple.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\Multiple.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\Multiple.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\Multiple.dll
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\refint\Multiple.dll
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\Multiple.pdb
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\Multiple.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\MultipleInheritance\MultipleInheritance\obj\Debug\net6.0\ref\Multiple.dll

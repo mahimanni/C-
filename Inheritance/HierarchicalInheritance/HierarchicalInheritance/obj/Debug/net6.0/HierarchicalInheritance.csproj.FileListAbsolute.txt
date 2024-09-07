@@ -1,0 +1,14 @@
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\bin\Debug\net6.0\HierarchicalInheritance.exe
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\bin\Debug\net6.0\HierarchicalInheritance.deps.json
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\bin\Debug\net6.0\HierarchicalInheritance.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\bin\Debug\net6.0\HierarchicalInheritance.dll
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\bin\Debug\net6.0\HierarchicalInheritance.pdb
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.dll
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\net6.0\refint\HierarchicalInheritance.dll
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.pdb
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\net6.0\HierarchicalInheritance.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\HierarchicalInheritance\HierarchicalInheritance\obj\Debug\net6.0\ref\HierarchicalInheritance.dll

@@ -1,0 +1,14 @@
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\bin\Debug\net6.0\MulitLevelInheritance.exe
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\bin\Debug\net6.0\MulitLevelInheritance.deps.json
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\bin\Debug\net6.0\MulitLevelInheritance.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\bin\Debug\net6.0\MulitLevelInheritance.dll
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\bin\Debug\net6.0\MulitLevelInheritance.pdb
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\obj\Debug\net6.0\MulitLevelInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\obj\Debug\net6.0\MulitLevelInheritance.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\obj\Debug\net6.0\MulitLevelInheritance.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\obj\Debug\net6.0\MulitLevelInheritance.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\obj\Debug\net6.0\MulitLevelInheritance.dll
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\obj\Debug\net6.0\refint\MulitLevelInheritance.dll
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\obj\Debug\net6.0\MulitLevelInheritance.pdb
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\obj\Debug\net6.0\MulitLevelInheritance.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\MulitLevelInheritance\MulitLevelInheritance\obj\Debug\net6.0\ref\MulitLevelInheritance.dll

@@ -1,0 +1,14 @@
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\bin\Debug\net6.0\SingleInheritance.exe
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\bin\Debug\net6.0\SingleInheritance.deps.json
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\bin\Debug\net6.0\SingleInheritance.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\bin\Debug\net6.0\SingleInheritance.dll
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\bin\Debug\net6.0\SingleInheritance.pdb
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.dll
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\refint\SingleInheritance.dll
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.pdb
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\SingleInheritance.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\SingleInheritance\SingleInheritance\obj\Debug\net6.0\ref\SingleInheritance.dll
