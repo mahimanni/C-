@@ -1,0 +1,16 @@
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\bin\Debug\net8.0-windows\ComboBoxBasics.exe
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\bin\Debug\net8.0-windows\ComboBoxBasics.deps.json
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\bin\Debug\net8.0-windows\ComboBoxBasics.runtimeconfig.json
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\bin\Debug\net8.0-windows\ComboBoxBasics.dll
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\bin\Debug\net8.0-windows\ComboBoxBasics.pdb
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\ComboBoxBasics.Form1.resources
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\ComboBoxBasics.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\ComboBoxBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\ComboBoxBasics.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\ComboBoxBasics.AssemblyInfo.cs
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\ComboBoxBasics.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\ComboBoxBasics.dll
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\refint\ComboBoxBasics.dll
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\ComboBoxBasics.pdb
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\ComboBoxBasics.genruntimeconfig.cache
+C:\Users\manni\source\repos\ComboBoxBasics\ComboBoxBasics\obj\Debug\net8.0-windows\ref\ComboBoxBasics.dll
