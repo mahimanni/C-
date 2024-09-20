@@ -15,6 +15,12 @@ namespace DynamicTextBoxes
             comboBox1.Items.Add("Min");
             comboBox1.Items.Add("Max");
             comboBox1.Items.Add("Abs");
+
+            comboBox1.Items.Add("Length");
+            comboBox1.Items.Add("ToUpper");
+            comboBox1.Items.Add("Substring");
+            comboBox1.Items.Add("Replace");
+            comboBox1.Items.Add("CountChars");
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -24,12 +30,6 @@ namespace DynamicTextBoxes
             f.ShowDialog();
             this.Close();
         }
-
-        /*private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }*/
-
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             //value = comboBox1.Text;
