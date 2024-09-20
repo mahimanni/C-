@@ -1,0 +1,16 @@
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\bin\Debug\net8.0-windows\TextShiftComboBox.exe
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\bin\Debug\net8.0-windows\TextShiftComboBox.deps.json
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\bin\Debug\net8.0-windows\TextShiftComboBox.runtimeconfig.json
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\bin\Debug\net8.0-windows\TextShiftComboBox.dll
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\bin\Debug\net8.0-windows\TextShiftComboBox.pdb
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\TextShiftComboBox.Form1.resources
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\TextShiftComboBox.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\TextShiftComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\TextShiftComboBox.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\TextShiftComboBox.AssemblyInfo.cs
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\TextShiftComboBox.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\TextShiftComboBox.dll
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\refint\TextShiftComboBox.dll
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\TextShiftComboBox.pdb
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\TextShiftComboBox.genruntimeconfig.cache
+C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\obj\Debug\net8.0-windows\ref\TextShiftComboBox.dll

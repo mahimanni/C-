@@ -1,0 +1,17 @@
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\bin\Debug\net8.0-windows\DynamicTextBoxes.exe
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\bin\Debug\net8.0-windows\DynamicTextBoxes.deps.json
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\bin\Debug\net8.0-windows\DynamicTextBoxes.runtimeconfig.json
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\bin\Debug\net8.0-windows\DynamicTextBoxes.dll
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\bin\Debug\net8.0-windows\DynamicTextBoxes.pdb
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\DynamicTextBoxes.Form1.resources
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\DynamicTextBoxes.FormFunction.resources
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\DynamicTextBoxes.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\DynamicTextBoxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\DynamicTextBoxes.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\DynamicTextBoxes.AssemblyInfo.cs
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\DynamicTextBoxes.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\DynamicTextBoxes.dll
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\refint\DynamicTextBoxes.dll
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\DynamicTextBoxes.pdb
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\DynamicTextBoxes.genruntimeconfig.cache
+C:\Users\manni\source\repos\DynamicTextBoxes\DynamicTextBoxes\obj\Debug\net8.0-windows\ref\DynamicTextBoxes.dll
