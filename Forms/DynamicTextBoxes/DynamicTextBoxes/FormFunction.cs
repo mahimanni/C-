@@ -53,7 +53,7 @@ namespace DynamicTextBoxes
                 absFunc();
             }
             //For string functions
-            if (functionName == "Length")
+            else if (functionName == "Length")
             {
                 label1.Text = "Length Function";
                 LengthFunc();

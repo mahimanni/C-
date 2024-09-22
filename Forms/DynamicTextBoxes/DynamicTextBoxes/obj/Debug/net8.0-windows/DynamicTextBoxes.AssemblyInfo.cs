@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DynamicTextBoxes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+203de3ffe3668dc6cadcea8e32bdfb43f9e6f53a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DynamicTextBoxes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DynamicTextBoxes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextShiftComboBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+203de3ffe3668dc6cadcea8e32bdfb43f9e6f53a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextShiftComboBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextShiftComboBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

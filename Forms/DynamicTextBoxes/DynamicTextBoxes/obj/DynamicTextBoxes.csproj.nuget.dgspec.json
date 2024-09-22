@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manni\\source\\repos\\DynamicTextBoxes\\DynamicTextBoxes\\DynamicTextBoxes.csproj": {}
+    "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DynamicTextBoxes\\DynamicTextBoxes\\DynamicTextBoxes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manni\\source\\repos\\DynamicTextBoxes\\DynamicTextBoxes\\DynamicTextBoxes.csproj": {
+    "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DynamicTextBoxes\\DynamicTextBoxes\\DynamicTextBoxes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\DynamicTextBoxes\\DynamicTextBoxes\\DynamicTextBoxes.csproj",
+        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DynamicTextBoxes\\DynamicTextBoxes\\DynamicTextBoxes.csproj",
         "projectName": "DynamicTextBoxes",
-        "projectPath": "C:\\Users\\manni\\source\\repos\\DynamicTextBoxes\\DynamicTextBoxes\\DynamicTextBoxes.csproj",
+        "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DynamicTextBoxes\\DynamicTextBoxes\\DynamicTextBoxes.csproj",
         "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manni\\source\\repos\\DynamicTextBoxes\\DynamicTextBoxes\\obj\\",
+        "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DynamicTextBoxes\\DynamicTextBoxes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

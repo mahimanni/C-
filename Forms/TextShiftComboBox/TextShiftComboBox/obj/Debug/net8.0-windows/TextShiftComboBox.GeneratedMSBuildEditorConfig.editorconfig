@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TextShiftComboBox
-build_property.ProjectDir = C:\Users\manni\source\repos\TextShiftComboBox\TextShiftComboBox\
+build_property.ProjectDir = C:\Users\manni\source\repos\C#\Forms\TextShiftComboBox\TextShiftComboBox\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
