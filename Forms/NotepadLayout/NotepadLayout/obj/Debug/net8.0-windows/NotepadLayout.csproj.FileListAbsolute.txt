@@ -1,0 +1,16 @@
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\bin\Debug\net8.0-windows\NotepadLayout.exe
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\bin\Debug\net8.0-windows\NotepadLayout.deps.json
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\bin\Debug\net8.0-windows\NotepadLayout.runtimeconfig.json
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\bin\Debug\net8.0-windows\NotepadLayout.dll
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\bin\Debug\net8.0-windows\NotepadLayout.pdb
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\NotepadLayout.Form1.resources
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\NotepadLayout.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\NotepadLayout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\NotepadLayout.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\NotepadLayout.AssemblyInfo.cs
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\NotepadLayout.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\NotepadLayout.dll
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\refint\NotepadLayout.dll
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\NotepadLayout.pdb
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\NotepadLayout.genruntimeconfig.cache
+C:\Users\manni\source\repos\NotepadLayout\NotepadLayout\obj\Debug\net8.0-windows\ref\NotepadLayout.dll
