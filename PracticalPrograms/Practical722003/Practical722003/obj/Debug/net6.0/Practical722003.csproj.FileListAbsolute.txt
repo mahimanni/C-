@@ -1,0 +1,29 @@
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\bin\Debug\net6.0\Practical722003.exe
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\bin\Debug\net6.0\Practical722003.deps.json
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\bin\Debug\net6.0\Practical722003.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\bin\Debug\net6.0\Practical722003.dll
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\bin\Debug\net6.0\Practical722003.pdb
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.dll
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\obj\Debug\net6.0\refint\Practical722003.dll
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.pdb
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\Practical722003\Practical722003\obj\Debug\net6.0\ref\Practical722003.dll
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\bin\Debug\net6.0\Practical722003.exe
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\bin\Debug\net6.0\Practical722003.deps.json
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\bin\Debug\net6.0\Practical722003.runtimeconfig.json
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\bin\Debug\net6.0\Practical722003.dll
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\bin\Debug\net6.0\Practical722003.pdb
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.AssemblyInfo.cs
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.sourcelink.json
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.dll
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\obj\Debug\net6.0\refint\Practical722003.dll
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.pdb
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\obj\Debug\net6.0\Practical722003.genruntimeconfig.cache
+C:\Users\manni\source\repos\C#\Practical722003\Practical722003\obj\Debug\net6.0\ref\Practical722003.dll

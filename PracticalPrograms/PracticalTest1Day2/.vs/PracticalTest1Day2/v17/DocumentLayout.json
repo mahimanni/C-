@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\PracticalTest1Day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C095088-C601-408C-9285-AD9704478FAE}|PracticalTest1Day2\\PracticalTest1Day2.csproj|c:\\users\\manni\\source\\repos\\practicaltest1day2\\practicaltest1day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C095088-C601-408C-9285-AD9704478FAE}|PracticalTest1Day2\\PracticalTest1Day2.csproj|solutionrelative:practicaltest1day2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\PracticalTest1Day2\\PracticalTest1Day2\\Program.cs",
+              "RelativeDocumentMoniker": "PracticalTest1Day2\\Program.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\PracticalTest1Day2\\PracticalTest1Day2\\Program.cs",
+              "RelativeToolTip": "PracticalTest1Day2\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:10:13.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
