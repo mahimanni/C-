@@ -1,0 +1,14 @@
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\obj\Debug\net8.0\PracticalTest1Day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\obj\Debug\net8.0\PracticalTest1Day3.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\obj\Debug\net8.0\PracticalTest1Day3.AssemblyInfo.cs
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\obj\Debug\net8.0\PracticalTest1Day3.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\bin\Debug\net8.0\PracticalTest1Day3.exe
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\bin\Debug\net8.0\PracticalTest1Day3.deps.json
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\bin\Debug\net8.0\PracticalTest1Day3.runtimeconfig.json
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\bin\Debug\net8.0\PracticalTest1Day3.dll
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\bin\Debug\net8.0\PracticalTest1Day3.pdb
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\obj\Debug\net8.0\PracticalTest1Day3.dll
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\obj\Debug\net8.0\refint\PracticalTest1Day3.dll
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\obj\Debug\net8.0\PracticalTest1Day3.pdb
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\obj\Debug\net8.0\PracticalTest1Day3.genruntimeconfig.cache
+C:\Users\manni\source\repos\PracticalTest1Day3\PracticalTest1Day3\obj\Debug\net8.0\ref\PracticalTest1Day3.dll
