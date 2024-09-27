@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\",
+  "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|c:\\users\\manni\\source\\repos\\adminfacultystudent\\adminfacultystudent\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|solutionrelative:adminfacultystudent\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|c:\\users\\manni\\source\\repos\\adminfacultystudent\\adminfacultystudent\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|solutionrelative:adminfacultystudent\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|c:\\users\\manni\\source\\repos\\adminfacultystudent\\adminfacultystudent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\adminfacultystudent\\adminfacultystudent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|solutionrelative:adminfacultystudent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\adminfacultystudent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\adminfacultystudent\\adminfacultystudent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|solutionrelative:adminfacultystudent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\adminfacultystudent\\adminfacultystudent\\formstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|solutionrelative:adminfacultystudent\\formstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\adminfacultystudent\\adminfacultystudent\\formfaculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|solutionrelative:adminfacultystudent\\formfaculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\adminfacultystudent\\adminfacultystudent\\formfaculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|solutionrelative:adminfacultystudent\\formfaculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\adminfacultystudent\\adminfacultystudent\\formmaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|solutionrelative:adminfacultystudent\\formmaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\adminfacultystudent\\formstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|solutionrelative:adminfacultystudent\\formstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\adminfacultystudent\\formmaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7ABB58D3-E5F6-474D-BEB8-BC67468D6358}|AdminFacultyStudent\\AdminFacultyStudent.csproj|solutionrelative:adminfacultystudent\\formmaths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +47,100 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\FormAdmin.cs",
-              "RelativeDocumentMoniker": "AdminFacultyStudent\\FormAdmin.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\FormAdmin.cs",
-              "RelativeToolTip": "AdminFacultyStudent\\FormAdmin.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\Form1.cs",
+              "RelativeDocumentMoniker": "AdminFacultyStudent\\Form1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\Form1.cs",
+              "RelativeToolTip": "AdminFacultyStudent\\Form1.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T07:04:14.267Z",
+              "WhenOpened": "2024-09-23T01:01:28.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormAdmin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\FormAdmin.cs",
-              "RelativeDocumentMoniker": "AdminFacultyStudent\\FormAdmin.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\FormAdmin.cs [Design]",
-              "RelativeToolTip": "AdminFacultyStudent\\FormAdmin.cs [Design]",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\Form1.cs",
+              "RelativeDocumentMoniker": "AdminFacultyStudent\\Form1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\Form1.cs [Design]",
+              "RelativeToolTip": "AdminFacultyStudent\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T07:04:09.671Z",
+              "WhenOpened": "2024-09-23T01:01:26.716Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\Form1.cs",
-              "RelativeDocumentMoniker": "AdminFacultyStudent\\Form1.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\Form1.cs",
-              "RelativeToolTip": "AdminFacultyStudent\\Form1.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAADsAAAAvAAAA",
+              "DocumentIndex": 4,
+              "Title": "FormFaculty.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormFaculty.cs",
+              "RelativeDocumentMoniker": "AdminFacultyStudent\\FormFaculty.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormFaculty.cs",
+              "RelativeToolTip": "AdminFacultyStudent\\FormFaculty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T06:06:46.821Z",
+              "WhenOpened": "2024-09-23T01:00:37.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\Form1.cs",
-              "RelativeDocumentMoniker": "AdminFacultyStudent\\Form1.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\Form1.cs [Design]",
-              "RelativeToolTip": "AdminFacultyStudent\\Form1.cs [Design]",
+              "Title": "FormFaculty.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormFaculty.cs",
+              "RelativeDocumentMoniker": "AdminFacultyStudent\\FormFaculty.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormFaculty.cs [Design]",
+              "RelativeToolTip": "AdminFacultyStudent\\FormFaculty.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T06:06:07.293Z",
+              "WhenOpened": "2024-09-23T01:00:13.255Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormStrings.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormStrings.cs",
+              "RelativeDocumentMoniker": "AdminFacultyStudent\\FormStrings.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormStrings.cs",
+              "RelativeToolTip": "AdminFacultyStudent\\FormStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:10:53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMaths.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormMaths.cs",
+              "RelativeDocumentMoniker": "AdminFacultyStudent\\FormMaths.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormMaths.cs",
+              "RelativeToolTip": "AdminFacultyStudent\\FormMaths.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAQwAQBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:10:50.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormStrings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormStrings.cs",
+              "RelativeDocumentMoniker": "AdminFacultyStudent\\FormStrings.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormStrings.cs [Design]",
+              "RelativeToolTip": "AdminFacultyStudent\\FormStrings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:10:41.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMaths.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormMaths.cs",
+              "RelativeDocumentMoniker": "AdminFacultyStudent\\FormMaths.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\FormMaths.cs [Design]",
+              "RelativeToolTip": "AdminFacultyStudent\\FormMaths.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:10:40.699Z"
             }
           ]
         }

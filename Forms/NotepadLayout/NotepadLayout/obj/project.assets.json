@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\NotepadLayout\\NotepadLayout\\NotepadLayout.csproj",
+      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\NotepadLayout\\NotepadLayout\\NotepadLayout.csproj",
       "projectName": "NotepadLayout",
-      "projectPath": "C:\\Users\\manni\\source\\repos\\NotepadLayout\\NotepadLayout\\NotepadLayout.csproj",
+      "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\NotepadLayout\\NotepadLayout\\NotepadLayout.csproj",
       "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manni\\source\\repos\\NotepadLayout\\NotepadLayout\\obj\\",
+      "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\NotepadLayout\\NotepadLayout\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

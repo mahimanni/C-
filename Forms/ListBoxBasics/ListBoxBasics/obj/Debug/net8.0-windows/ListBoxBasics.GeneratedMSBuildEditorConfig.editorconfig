@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ListBoxBasics
-build_property.ProjectDir = C:\Users\NPGC LAB 4\source\repos\ListBoxBasics\ListBoxBasics\
+build_property.ProjectDir = C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

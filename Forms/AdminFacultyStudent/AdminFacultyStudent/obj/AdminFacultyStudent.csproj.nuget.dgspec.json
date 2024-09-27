@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\AdminFacultyStudent.csproj": {}
+    "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\AdminFacultyStudent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\AdminFacultyStudent.csproj": {
+    "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\AdminFacultyStudent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\AdminFacultyStudent.csproj",
+        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\AdminFacultyStudent.csproj",
         "projectName": "AdminFacultyStudent",
-        "projectPath": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\AdminFacultyStudent.csproj",
+        "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\AdminFacultyStudent.csproj",
         "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manni\\source\\repos\\AdminFacultyStudent\\AdminFacultyStudent\\obj\\",
+        "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\AdminFacultyStudent\\AdminFacultyStudent\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

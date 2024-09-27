@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ListBoxBasics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a78fd65ff1037e8909bf7fd066198e248862e64f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListBoxBasics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListBoxBasics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

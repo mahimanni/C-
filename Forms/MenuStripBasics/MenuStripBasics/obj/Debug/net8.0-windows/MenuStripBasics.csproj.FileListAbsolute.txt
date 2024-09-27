@@ -1,0 +1,42 @@
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\bin\Debug\net8.0-windows\MenuStripBasics.exe
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\bin\Debug\net8.0-windows\MenuStripBasics.deps.json
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\bin\Debug\net8.0-windows\MenuStripBasics.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\bin\Debug\net8.0-windows\MenuStripBasics.dll
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\bin\Debug\net8.0-windows\MenuStripBasics.pdb
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.Form1.resources
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.csproj.GenerateResource.cache
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.dll
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\refint\MenuStripBasics.dll
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.pdb
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\ref\MenuStripBasics.dll
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.MDIParent1.resources
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.Form2.resources
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.Form3.resources
+C:\Users\NPGC LAB 4\source\repos\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.Form4.resources
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\bin\Debug\net8.0-windows\MenuStripBasics.exe
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\bin\Debug\net8.0-windows\MenuStripBasics.deps.json
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\bin\Debug\net8.0-windows\MenuStripBasics.runtimeconfig.json
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\bin\Debug\net8.0-windows\MenuStripBasics.dll
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\bin\Debug\net8.0-windows\MenuStripBasics.pdb
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.Form1.resources
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.Form2.resources
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.Form3.resources
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.Form4.resources
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.MDIParent1.resources
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.AssemblyInfo.cs
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.sourcelink.json
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.dll
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\refint\MenuStripBasics.dll
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.pdb
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.genruntimeconfig.cache
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\ref\MenuStripBasics.dll
+C:\Users\manni\source\repos\C#\Forms\MenuStripBasics\MenuStripBasics\obj\Debug\net8.0-windows\MenuStripBasics.Form5.resources

@@ -14,3 +14,20 @@ C:\Users\NPGC LAB 4\source\repos\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-wi
 C:\Users\NPGC LAB 4\source\repos\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.pdb
 C:\Users\NPGC LAB 4\source\repos\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.genruntimeconfig.cache
 C:\Users\NPGC LAB 4\source\repos\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ref\ListBoxBasics.dll
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\bin\Debug\net8.0-windows\ListBoxBasics.exe
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\bin\Debug\net8.0-windows\ListBoxBasics.deps.json
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\bin\Debug\net8.0-windows\ListBoxBasics.runtimeconfig.json
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\bin\Debug\net8.0-windows\ListBoxBasics.dll
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\bin\Debug\net8.0-windows\ListBoxBasics.pdb
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.Form1.resources
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.AssemblyInfo.cs
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.sourcelink.json
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.dll
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\refint\ListBoxBasics.dll
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.pdb
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ListBoxBasics.genruntimeconfig.cache
+C:\Users\manni\source\repos\C#\Forms\ListBoxBasics\ListBoxBasics\obj\Debug\net8.0-windows\ref\ListBoxBasics.dll

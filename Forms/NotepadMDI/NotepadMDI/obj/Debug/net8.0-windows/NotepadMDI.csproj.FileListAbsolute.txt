@@ -1,0 +1,17 @@
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\bin\Debug\net8.0-windows\NotepadMDI.exe
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\bin\Debug\net8.0-windows\NotepadMDI.deps.json
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\bin\Debug\net8.0-windows\NotepadMDI.runtimeconfig.json
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\bin\Debug\net8.0-windows\NotepadMDI.dll
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\bin\Debug\net8.0-windows\NotepadMDI.pdb
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\NotepadMDI.Form1.resources
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\NotepadMDI.MDIParent1.resources
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\NotepadMDI.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\NotepadMDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\NotepadMDI.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\NotepadMDI.AssemblyInfo.cs
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\NotepadMDI.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\NotepadMDI.dll
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\refint\NotepadMDI.dll
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\NotepadMDI.pdb
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\NotepadMDI.genruntimeconfig.cache
+C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\obj\Debug\net8.0-windows\ref\NotepadMDI.dll
