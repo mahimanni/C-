@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|c:\\users\\manni\\source\\repos\\school\\school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|solutionrelative:school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|C:\\Users\\manni\\source\\repos\\School\\school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|solutionrelative:school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|c:\\users\\manni\\source\\repos\\school\\school\\formsearchteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|solutionrelative:school\\formsearchteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|c:\\users\\manni\\source\\repos\\school\\school\\formsearchstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|solutionrelative:school\\formsearchstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|c:\\users\\manni\\source\\repos\\school\\school\\formsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|solutionrelative:school\\formsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|c:\\users\\manni\\source\\repos\\school\\school\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|solutionrelative:school\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|C:\\Users\\manni\\source\\repos\\School\\school\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E7DC551-A2D7-448E-84E7-4034E967001B}|School\\School.csproj|solutionrelative:school\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSearch.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\School\\School\\FormSearch.cs",
+              "RelativeDocumentMoniker": "School\\FormSearch.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\School\\School\\FormSearch.cs",
+              "RelativeToolTip": "School\\FormSearch.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAASwCcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:34:41.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSearchStaff.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\School\\School\\FormSearchStaff.cs",
+              "RelativeDocumentMoniker": "School\\FormSearchStaff.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\School\\School\\FormSearchStaff.cs",
+              "RelativeToolTip": "School\\FormSearchStaff.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:51:01.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSearchTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\School\\School\\FormSearchTeacher.cs",
+              "RelativeDocumentMoniker": "School\\FormSearchTeacher.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\School\\School\\FormSearchTeacher.cs",
+              "RelativeToolTip": "School\\FormSearchTeacher.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:41:19.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMenu.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\School\\School\\FormMenu.cs",
+              "RelativeDocumentMoniker": "School\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\School\\School\\FormMenu.cs",
+              "RelativeToolTip": "School\\FormMenu.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAuwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:11:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\School\\School\\FormMenu.cs",
+              "RelativeDocumentMoniker": "School\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\School\\School\\FormMenu.cs [Design]",
+              "RelativeToolTip": "School\\FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T16:02:56.828Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\School\\School\\Form1.cs",
+              "RelativeDocumentMoniker": "School\\Form1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\School\\School\\Form1.cs [Design]",
+              "RelativeToolTip": "School\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:02:57.044Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\School\\School\\Form1.cs",
+              "RelativeDocumentMoniker": "School\\Form1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\School\\School\\Form1.cs",
+              "RelativeToolTip": "School\\Form1.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAIsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:39:24.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

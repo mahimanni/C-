@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\DatabaseConnection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F173EBAE-34DD-4720-9DDF-4FBE4FA7369B}|DatabaseConnection\\DatabaseConnection.csproj|c:\\users\\manni\\source\\repos\\databaseconnection\\databaseconnection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F173EBAE-34DD-4720-9DDF-4FBE4FA7369B}|DatabaseConnection\\DatabaseConnection.csproj|solutionrelative:databaseconnection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F173EBAE-34DD-4720-9DDF-4FBE4FA7369B}|DatabaseConnection\\DatabaseConnection.csproj|c:\\users\\manni\\source\\repos\\databaseconnection\\databaseconnection\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F173EBAE-34DD-4720-9DDF-4FBE4FA7369B}|DatabaseConnection\\DatabaseConnection.csproj|solutionrelative:databaseconnection\\formmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F173EBAE-34DD-4720-9DDF-4FBE4FA7369B}|DatabaseConnection\\DatabaseConnection.csproj|C:\\Users\\manni\\source\\repos\\DatabaseConnection\\databaseconnection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F173EBAE-34DD-4720-9DDF-4FBE4FA7369B}|DatabaseConnection\\DatabaseConnection.csproj|solutionrelative:databaseconnection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\DatabaseConnection\\DatabaseConnection\\FormMenu.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection\\FormMenu.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\DatabaseConnection\\DatabaseConnection\\FormMenu.cs [Design]",
+              "RelativeToolTip": "DatabaseConnection\\FormMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:50:38.296Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\DatabaseConnection\\DatabaseConnection\\Form1.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection\\Form1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\DatabaseConnection\\DatabaseConnection\\Form1.cs",
+              "RelativeToolTip": "DatabaseConnection\\Form1.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:58:48.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\DatabaseConnection\\DatabaseConnection\\Form1.cs",
+              "RelativeDocumentMoniker": "DatabaseConnection\\Form1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\DatabaseConnection\\DatabaseConnection\\Form1.cs [Design]",
+              "RelativeToolTip": "DatabaseConnection\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T16:58:46.712Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
