@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\NotepadMDI\\NotepadMDI\\NotepadMDI.csproj",
+      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\NotepadMDI\\NotepadMDI\\NotepadMDI.csproj",
       "projectName": "NotepadMDI",
-      "projectPath": "C:\\Users\\manni\\source\\repos\\NotepadMDI\\NotepadMDI\\NotepadMDI.csproj",
+      "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\NotepadMDI\\NotepadMDI\\NotepadMDI.csproj",
       "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manni\\source\\repos\\NotepadMDI\\NotepadMDI\\obj\\",
+      "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\NotepadMDI\\NotepadMDI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

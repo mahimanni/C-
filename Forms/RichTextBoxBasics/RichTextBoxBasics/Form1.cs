@@ -15,7 +15,8 @@ namespace RichTextBoxBasics
             this.Controls.Add(label1);
 
             RichTextBox box = new RichTextBox();//Creating a RichTextBox control
-            box.Location = new Point(300, 150);//setting location: get or set the coordinates of the upper-left corner of the RichTextBox control relative to the upper-left corner of its form
+            box.Location = new Point(300, 150);//setting location:
+            //get or set the coordinates of the upper-left corner of the RichTextBox control relative to the upper-left corner of its form
             box.BackColor = Color.Aqua;//setting background color
             box.ForeColor = Color.DarkBlue;
             box.Text = "Welcome users:)";//setting text

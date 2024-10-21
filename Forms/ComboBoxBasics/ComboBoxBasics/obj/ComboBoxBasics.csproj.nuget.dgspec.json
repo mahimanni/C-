@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manni\\source\\repos\\ComboBoxBasics\\ComboBoxBasics\\ComboBoxBasics.csproj": {}
+    "C:\\Users\\manni\\source\\repos\\C#\\Forms\\ComboBoxBasics\\ComboBoxBasics\\ComboBoxBasics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manni\\source\\repos\\ComboBoxBasics\\ComboBoxBasics\\ComboBoxBasics.csproj": {
+    "C:\\Users\\manni\\source\\repos\\C#\\Forms\\ComboBoxBasics\\ComboBoxBasics\\ComboBoxBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\ComboBoxBasics\\ComboBoxBasics\\ComboBoxBasics.csproj",
+        "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\ComboBoxBasics\\ComboBoxBasics\\ComboBoxBasics.csproj",
         "projectName": "ComboBoxBasics",
-        "projectPath": "C:\\Users\\manni\\source\\repos\\ComboBoxBasics\\ComboBoxBasics\\ComboBoxBasics.csproj",
+        "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\ComboBoxBasics\\ComboBoxBasics\\ComboBoxBasics.csproj",
         "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manni\\source\\repos\\ComboBoxBasics\\ComboBoxBasics\\obj\\",
+        "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\ComboBoxBasics\\ComboBoxBasics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

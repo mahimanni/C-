@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NotepadMDI
-build_property.ProjectDir = C:\Users\manni\source\repos\NotepadMDI\NotepadMDI\
+build_property.ProjectDir = C:\Users\manni\source\repos\C#\Forms\NotepadMDI\NotepadMDI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,40 @@
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.Form1.resources
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.csproj.GenerateResource.cache
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\bin\Debug\net6.0-windows\DataMinder.exe
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\bin\Debug\net6.0-windows\DataMinder.deps.json
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\bin\Debug\net6.0-windows\DataMinder.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\bin\Debug\net6.0-windows\DataMinder.dll
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\bin\Debug\net6.0-windows\DataMinder.pdb
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.dll
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\refint\DataMinder.dll
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.pdb
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\ref\DataMinder.dll
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.FormLogin.resources
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.MDIParent1.resources
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.Properties.Resources.resources
+C:\Users\NPGC LAB 4\source\repos\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.Form2.resources
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\bin\Debug\net6.0-windows\DataMinder.exe
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\bin\Debug\net6.0-windows\DataMinder.deps.json
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\bin\Debug\net6.0-windows\DataMinder.runtimeconfig.json
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\bin\Debug\net6.0-windows\DataMinder.dll
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\bin\Debug\net6.0-windows\DataMinder.pdb
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.Form1.resources
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.FormLogin.resources
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.MDIParent1.resources
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.Properties.Resources.resources
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.AssemblyInfo.cs
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.sourcelink.json
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.dll
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\refint\DataMinder.dll
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.pdb
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\DataMinder.genruntimeconfig.cache
+C:\Users\manni\source\repos\C#\Forms\DataMinder\DataMinder\obj\Debug\net6.0-windows\ref\DataMinder.dll

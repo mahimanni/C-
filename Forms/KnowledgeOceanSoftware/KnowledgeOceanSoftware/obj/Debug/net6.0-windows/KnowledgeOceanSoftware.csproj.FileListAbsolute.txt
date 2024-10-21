@@ -1,0 +1,55 @@
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.exe
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.deps.json
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.runtimeconfig.json
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.dll
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.pdb
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.Form1.resources
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.Properties.Resources.resources
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.csproj.GenerateResource.cache
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.AssemblyInfoInputs.cache
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.AssemblyInfo.cs
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.csproj.CoreCompileInputs.cache
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.dll
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\refint\KnowledgeOceanSoftware.dll
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.pdb
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.genruntimeconfig.cache
+C:\Users\NPGC LAB 4\source\repos\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\ref\KnowledgeOceanSoftware.dll
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.exe
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.deps.json
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.runtimeconfig.json
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.dll
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.pdb
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.Form1.resources
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.Properties.Resources.resources
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.csproj.GenerateResource.cache
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.AssemblyInfoInputs.cache
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.AssemblyInfo.cs
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.csproj.CoreCompileInputs.cache
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.dll
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\refint\KnowledgeOceanSoftware.dll
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.pdb
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.genruntimeconfig.cache
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\ref\KnowledgeOceanSoftware.dll
+F:\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.FormQuiz.resources
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.exe
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.deps.json
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.runtimeconfig.json
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.dll
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\bin\Debug\net6.0-windows\KnowledgeOceanSoftware.pdb
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.Form1.resources
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.FormQuiz.resources
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.Properties.Resources.resources
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.csproj.GenerateResource.cache
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.AssemblyInfoInputs.cache
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.AssemblyInfo.cs
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.csproj.CoreCompileInputs.cache
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.sourcelink.json
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.dll
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\refint\KnowledgeOceanSoftware.dll
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.pdb
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.genruntimeconfig.cache
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\ref\KnowledgeOceanSoftware.dll
+C:\Users\manni\source\repos\C#\Forms\KnowledgeOceanSoftware\KnowledgeOceanSoftware\obj\Debug\net6.0-windows\KnowledgeOceanSoftware.FormResult.resources

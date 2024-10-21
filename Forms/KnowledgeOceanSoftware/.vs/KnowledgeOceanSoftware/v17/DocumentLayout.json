@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\knowledgeoceansoftware\\knowledgeoceansoftware\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|solutionrelative:knowledgeoceansoftware\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\knowledgeoceansoftware\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|solutionrelative:knowledgeoceansoftware\\formquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\knowledgeoceansoftware\\knowledgeoceansoftware\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|solutionrelative:knowledgeoceansoftware\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\knowledgeoceansoftware\\knowledgeoceansoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|solutionrelative:knowledgeoceansoftware\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\knowledgeoceansoftware\\knowledgeoceansoftware\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|solutionrelative:knowledgeoceansoftware\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\knowledgeoceansoftware\\knowledgeoceansoftware\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|solutionrelative:knowledgeoceansoftware\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\knowledgeoceansoftware\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5505D67-DB05-4E77-86B4-93E020E2F707}|KnowledgeOceanSoftware\\KnowledgeOceanSoftware.csproj|solutionrelative:knowledgeoceansoftware\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormResult.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\FormResult.cs",
+              "RelativeDocumentMoniker": "KnowledgeOceanSoftware\\FormResult.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\FormResult.cs",
+              "RelativeToolTip": "KnowledgeOceanSoftware\\FormResult.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:15:49.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormResult.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\FormResult.cs",
+              "RelativeDocumentMoniker": "KnowledgeOceanSoftware\\FormResult.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\FormResult.cs [Design]",
+              "RelativeToolTip": "KnowledgeOceanSoftware\\FormResult.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:15:46.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\Program.cs",
+              "RelativeDocumentMoniker": "KnowledgeOceanSoftware\\Program.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\Program.cs",
+              "RelativeToolTip": "KnowledgeOceanSoftware\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:53:17.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\FormQuiz.cs",
+              "RelativeDocumentMoniker": "KnowledgeOceanSoftware\\FormQuiz.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\FormQuiz.cs",
+              "RelativeToolTip": "KnowledgeOceanSoftware\\FormQuiz.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAcwA4BAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:51:01.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormQuiz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\FormQuiz.cs",
+              "RelativeDocumentMoniker": "KnowledgeOceanSoftware\\FormQuiz.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\FormQuiz.cs [Design]",
+              "RelativeToolTip": "KnowledgeOceanSoftware\\FormQuiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T05:13:36.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\Form1.cs",
+              "RelativeDocumentMoniker": "KnowledgeOceanSoftware\\Form1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\Form1.cs",
+              "RelativeToolTip": "KnowledgeOceanSoftware\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:05:43.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\Form1.cs",
+              "RelativeDocumentMoniker": "KnowledgeOceanSoftware\\Form1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\KnowledgeOceanSoftware\\KnowledgeOceanSoftware\\Form1.cs [Design]",
+              "RelativeToolTip": "KnowledgeOceanSoftware\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:52:39.023Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

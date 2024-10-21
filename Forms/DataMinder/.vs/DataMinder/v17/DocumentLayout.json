@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\dataminder\\dataminder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|solutionrelative:dataminder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\dataminder\\dataminder\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|solutionrelative:dataminder\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\dataminder\\dataminder\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|solutionrelative:dataminder\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\dataminder\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|solutionrelative:dataminder\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\dataminder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|solutionrelative:dataminder\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|c:\\users\\manni\\source\\repos\\c#\\forms\\dataminder\\dataminder\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D99B81D-7F8D-4C90-B308-8B8A3F079CE8}|DataMinder\\DataMinder.csproj|solutionrelative:dataminder\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MDIParent1.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "DataMinder\\MDIParent1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\MDIParent1.cs",
+              "RelativeToolTip": "DataMinder\\MDIParent1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:42:39.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MDIParent1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "DataMinder\\MDIParent1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\MDIParent1.cs [Design]",
+              "RelativeToolTip": "DataMinder\\MDIParent1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:51:14.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\FormLogin.cs",
+              "RelativeDocumentMoniker": "DataMinder\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\FormLogin.cs",
+              "RelativeToolTip": "DataMinder\\FormLogin.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:24:05.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\FormLogin.cs",
+              "RelativeDocumentMoniker": "DataMinder\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\FormLogin.cs [Design]",
+              "RelativeToolTip": "DataMinder\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:09:32.103Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\Form1.cs",
+              "RelativeDocumentMoniker": "DataMinder\\Form1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\Form1.cs",
+              "RelativeToolTip": "DataMinder\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:05:56.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\Form1.cs",
+              "RelativeDocumentMoniker": "DataMinder\\Form1.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DataMinder\\DataMinder\\Form1.cs [Design]",
+              "RelativeToolTip": "DataMinder\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:02:55.229Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
