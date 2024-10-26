@@ -119,16 +119,16 @@ namespace School
         private void button1_Click(object sender, EventArgs e)
         {
             string person, name, email;
-            person= comboBox1.Text;
+            person = comboBox1.Text;
             name = textBox1.Text;
             email = textBox2.Text;
             if (person == "Student")
-                sql= "select * from student where name='"+name+"'and email='"+email+"'";
-            else if(person == "Teacher")
+                sql = "select * from student where name='" + name + "'and email='" + email + "'";
+            else if (person == "Teacher")
                 sql = "select * from teacher where tname='" + name + "'and temail='" + email + "'";
             else
                 sql = "select * from staff where sname='" + name + "'and semail='" + email + "'";
-            cmd= new SqlCommand(sql, conn);
+            cmd = new SqlCommand(sql, conn);
             conn.Open();
             dr = cmd.ExecuteReader();
             if (dr.HasRows)

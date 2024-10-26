@@ -2127,11 +2127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\School\\School\\School.csproj",
+      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\Database\\School\\School\\School.csproj",
       "projectName": "School",
-      "projectPath": "C:\\Users\\manni\\source\\repos\\School\\School\\School.csproj",
+      "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\Database\\School\\School\\School.csproj",
       "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manni\\source\\repos\\School\\School\\obj\\",
+      "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\Database\\School\\School\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2196,5 +2196,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300-preview.24203.14/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

@@ -2253,11 +2253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DatabaseConn2\\DatabaseConn2\\DatabaseConn2.csproj",
+      "projectUniqueName": "C:\\Users\\manni\\source\\repos\\C#\\Database\\DatabaseConn2\\DatabaseConn2\\DatabaseConn2.csproj",
       "projectName": "DatabaseConn2",
-      "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DatabaseConn2\\DatabaseConn2\\DatabaseConn2.csproj",
+      "projectPath": "C:\\Users\\manni\\source\\repos\\C#\\Database\\DatabaseConn2\\DatabaseConn2\\DatabaseConn2.csproj",
       "packagesPath": "C:\\Users\\manni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\Forms\\DatabaseConn2\\DatabaseConn2\\obj\\",
+      "outputPath": "C:\\Users\\manni\\source\\repos\\C#\\Database\\DatabaseConn2\\DatabaseConn2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manni\\AppData\\Roaming\\NuGet\\NuGet.Config",

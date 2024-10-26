@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseConn2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b38248d524d723c65992cbfca6b8a6a2b195f3ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84dc946b740807d3aedac403e8b65a4bf820ddd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatabaseConn2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabaseConn2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
