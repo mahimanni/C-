@@ -63,3 +63,11 @@ C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.pdb
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.genruntimeconfig.cache
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\ref\InventoryMngtSystem.dll
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormCustomer.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormMenu.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormUser.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormEmployee.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormInventory.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormOrder.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormProduct.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormSupplier.resources

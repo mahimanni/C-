@@ -65,7 +65,7 @@
             groupBox1.Controls.Add(textBox1);
             groupBox1.Controls.Add(comboBox1);
             groupBox1.Controls.Add(button1);
-            groupBox1.Location = new Point(186, -2);
+            groupBox1.Location = new Point(334, 31);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(457, 576);
             groupBox1.TabIndex = 10;
@@ -205,10 +205,10 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 586);
+            ClientSize = new Size(1178, 644);
             Controls.Add(groupBox1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "LoginForm";
             Load += Form1_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();

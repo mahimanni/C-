@@ -18,21 +18,23 @@ namespace InventoryMngtSystem
         private void createTable()
         {
             // Creating Connection  
-            conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Learner;Integrated Security=True;TrustServerCertificate=True");
+            conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True");
             //Server=localhost;Database=master;Trusted_Connection=True;
 
             // writing sql query  
-            cmd = new SqlCommand("create table customer(id int identity(1,1) primary key, name varchar(50), age int, gender varchar(1), email varchar(50), phoneno varchar(10), pwd varchar(20), address varchar(100), pincode varchar(10), state varchar(100))", conn);
-            
+            //cmd = new SqlCommand("create table customer(id int identity(1,1) primary key, name varchar(50), age int, gender varchar(1), email varchar(50), phoneno varchar(10), pwd varchar(20), address varchar(100), pincode varchar(6), state varchar(100), country varchar(100))", conn);
+            //cmd = new SqlCommand("create table employee(eid int identity(1,1) primary key, ename varchar(50), eage int, egender varchar(1), eemail varchar(50), ephoneno varchar(10), epwd varchar(20), esalary bigint, erole varchar(50), eaccess varchar(10), ejoin_date date)",conn);
+            cmd = new SqlCommand("create table supplier(sid int identity(1,1) primary key, sname varchar(50), scontactperson varchar(100), semail varchar(50))",conn);
+
             conn.Open();// Opening Connection
-            cmd.ExecuteNonQuery();// Executing the SQL query  
+            cmd.ExecuteNonQuery();// Executing the SQL query
             Console.WriteLine("Table created Successfully");// Displaying a message 
+            conn.Close();
         }
         private void Form1_Load(object sender, EventArgs e)
         {
-            conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True");
-            createTable();
-            comboBox1.Items.Add("User");
+            //createTable();
+            comboBox1.Items.Add("Employee");
             comboBox1.Items.Add("Customer");
             captchaDisplay();
         }
@@ -42,6 +44,7 @@ namespace InventoryMngtSystem
         {
             try
             {
+                conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True");
                 conn.Open();
 
                 // Generate a random number for selecting captcha image
@@ -100,10 +103,10 @@ namespace InventoryMngtSystem
             name = textBox1.Text;
             email = textBox2.Text;
             password = textBox3.Text;
-            if (person == "User")
-                sql = "select * from user where name='" + name + "'and email='" + email + "'and pwd='" + password + "'";
+            if (person == "Employee")
+                sql = "select * from employee where ename='" + name + "'and eemail='" + email + "'and epwd='" + password + "'";
             else if (person == "Customer")
-                sql = "select * from customer where cname='" + name + "'and cemail='" + email + "'and cpwd='" + password + "'";
+                sql = "select * from customer where name='" + name + "'and email='" + email + "'and pwd='" + password + "'";
 
             conn.Open();
             using (cmd = new SqlCommand(sql, conn))
@@ -135,7 +138,7 @@ namespace InventoryMngtSystem
             this.Close();
         }
 
-        //Signup Window
+        //Signup Window for Customer
         private void label8_Click(object sender, EventArgs e)
         {
             FormCustomer fc = new FormCustomer();
