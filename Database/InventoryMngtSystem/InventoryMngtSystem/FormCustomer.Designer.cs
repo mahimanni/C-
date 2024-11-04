@@ -55,15 +55,7 @@
             label3 = new Label();
             label2 = new Label();
             label1 = new Label();
-            groupBox2 = new GroupBox();
-            button6 = new Button();
-            button5 = new Button();
-            button4 = new Button();
-            button3 = new Button();
-            button2 = new Button();
-            button7 = new Button();
             groupBox1.SuspendLayout();
-            groupBox2.SuspendLayout();
             SuspendLayout();
             // 
             // groupBox1
@@ -327,88 +319,17 @@
             label1.TabIndex = 0;
             label1.Text = "Name";
             // 
-            // groupBox2
-            // 
-            groupBox2.Controls.Add(button6);
-            groupBox2.Controls.Add(button5);
-            groupBox2.Controls.Add(button4);
-            groupBox2.Controls.Add(button3);
-            groupBox2.Controls.Add(button2);
-            groupBox2.Controls.Add(button7);
-            groupBox2.Location = new Point(32, 105);
-            groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(177, 403);
-            groupBox2.TabIndex = 2;
-            groupBox2.TabStop = false;
-            groupBox2.Text = "groupBox2";
-            // 
-            // button6
-            // 
-            button6.Location = new Point(15, 309);
-            button6.Name = "button6";
-            button6.Size = new Size(139, 34);
-            button6.TabIndex = 1;
-            button6.Text = "Orders";
-            button6.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            button5.Location = new Point(15, 254);
-            button5.Name = "button5";
-            button5.Size = new Size(139, 36);
-            button5.TabIndex = 5;
-            button5.Text = "Product";
-            button5.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            button4.Location = new Point(15, 198);
-            button4.Name = "button4";
-            button4.Size = new Size(139, 36);
-            button4.TabIndex = 4;
-            button4.Text = "Inventory";
-            button4.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            button3.Location = new Point(15, 145);
-            button3.Name = "button3";
-            button3.Size = new Size(139, 36);
-            button3.TabIndex = 3;
-            button3.Text = "Supplier";
-            button3.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            button2.Location = new Point(15, 92);
-            button2.Name = "button2";
-            button2.Size = new Size(139, 36);
-            button2.TabIndex = 2;
-            button2.Text = "Customer";
-            button2.UseVisualStyleBackColor = true;
-            // 
-            // button7
-            // 
-            button7.Location = new Point(15, 41);
-            button7.Name = "button7";
-            button7.Size = new Size(139, 36);
-            button7.TabIndex = 1;
-            button7.Text = "Employee";
-            button7.UseVisualStyleBackColor = true;
-            // 
             // FormCustomer
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1178, 644);
-            Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Name = "FormCustomer";
             Text = "FormCustomer";
             Load += FormCustomer_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
-            groupBox2.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -441,12 +362,5 @@
         private Label label10;
         private ComboBox comboBox2;
         private Label label13;
-        private GroupBox groupBox2;
-        private Button button6;
-        private Button button5;
-        private Button button4;
-        private Button button3;
-        private Button button2;
-        private Button button7;
     }
 }

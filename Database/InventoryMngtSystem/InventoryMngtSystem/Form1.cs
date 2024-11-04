@@ -24,7 +24,7 @@ namespace InventoryMngtSystem
             // writing sql query  
             //cmd = new SqlCommand("create table customer(id int identity(1,1) primary key, name varchar(50), age int, gender varchar(1), email varchar(50), phoneno varchar(10), pwd varchar(20), address varchar(100), pincode varchar(6), state varchar(100), country varchar(100))", conn);
             //cmd = new SqlCommand("create table employee(eid int identity(1,1) primary key, ename varchar(50), eage int, egender varchar(1), eemail varchar(50), ephoneno varchar(10), epwd varchar(20), esalary bigint, erole varchar(50), eaccess varchar(10), ejoin_date date)",conn);
-            cmd = new SqlCommand("create table supplier(sid int identity(1,1) primary key, sname varchar(50), scontactperson varchar(100), semail varchar(50))",conn);
+            cmd = new SqlCommand("create table supplier(sid int identity(1,1) primary key, sname varchar(50), scontactperson varchar(100), semail varchar(50))", conn);
 
             conn.Open();// Opening Connection
             cmd.ExecuteNonQuery();// Executing the SQL query
@@ -115,9 +115,12 @@ namespace InventoryMngtSystem
                 {
                     if (dr.HasRows && textBox4.Text == val)//String.Equals(textBox4.Text,val)
                     {
-                        FormMenu fm = new FormMenu();
+                        /*FormMenu fm = new FormMenu();
                         fm.ShowDialog();
-                        this.Close();
+                        this.Close();*/
+
+                        FormOrder fo = new FormOrder();
+                        fo.ShowDialog();
                     }
                     else
                     {
@@ -135,7 +138,7 @@ namespace InventoryMngtSystem
         {
             FormAdmin fa = new FormAdmin();
             fa.ShowDialog();
-            this.Close();
+            //this.Close();
         }
 
         //Signup Window for Customer
@@ -143,7 +146,12 @@ namespace InventoryMngtSystem
         {
             FormCustomer fc = new FormCustomer();
             fc.ShowDialog();
-            this.Close();
+            //this.Close();
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

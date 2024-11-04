@@ -67,7 +67,7 @@ namespace InventoryMngtSystem
             user_pwd = textBox6.Text;
             user_salary = textBox7.Text;
             user_role = comboBox1.Text;
-            user_access= comboBox2.Text;
+            user_access = comboBox2.Text;
             user_joindate = textBox8.Text;
 
             if (user_phoneno.Length != 10)
@@ -149,6 +149,42 @@ namespace InventoryMngtSystem
 
                 return recordCount > 0; // If any record matches, return true (duplicate exists)
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormEmployee fe = new FormEmployee();
+            fe.ShowDialog();
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormCustomer fc = new FormCustomer();
+            fc.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            FormSupplier fs = new FormSupplier();
+            fs.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            FormInventory fi = new FormInventory();
+            fi.ShowDialog();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            FormProduct fp = new FormProduct();
+            fp.ShowDialog();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            /*FormOrder fo = new FormOrder();
+            fo.ShowDialog();
+            this.Close();*/
         }
     }
 }

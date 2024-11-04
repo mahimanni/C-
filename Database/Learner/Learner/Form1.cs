@@ -20,6 +20,7 @@ namespace Learner
             {
                 // Creating Connection  
                 conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Learner;Integrated Security=True;TrustServerCertificate=True");
+                //Server=localhost;Database=master;Trusted_Connection=True;
 
                 // writing sql query  
                 cmd = new SqlCommand("create table student(id int identity(1,1) primary key, name varchar(50), age int, gender varchar(1), email varchar(50), phoneno varchar(10), pwd varchar(20), course varchar(50), currentyear varchar(20), join_date date)", conn);
@@ -155,8 +156,6 @@ namespace Learner
                 cmd1?.Dispose(); // Dispose of SqlCommand to release resources
             }
         }
-
-
 
         //<------------------------------------------------------------------------------Login Authorization--------------------------------------------------------------------------------------------------------------->
         private void button1_Click(object sender, EventArgs e)

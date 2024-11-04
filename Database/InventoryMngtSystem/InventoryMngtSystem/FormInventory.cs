@@ -31,7 +31,7 @@ namespace InventoryMngtSystem
             user_location = textBox2.Text;
             user_capacity = textBox3.Text;
             user_email = textBox4.Text;
-            user_pid= textBox5.Text;
+            user_pid = textBox5.Text;
 
             conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True");
             // Define the SQL query with parameters
@@ -96,6 +96,41 @@ namespace InventoryMngtSystem
 
                 return recordCount > 0; // If any record matches, return true (duplicate exists)
             }
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormEmployee fe = new FormEmployee();
+            fe.ShowDialog();
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormCustomer fc = new FormCustomer();
+            fc.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            FormSupplier fs = new FormSupplier();
+            fs.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            FormInventory fi = new FormInventory();
+            fi.ShowDialog();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            FormProduct fp = new FormProduct();
+            fp.ShowDialog();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            /*FormOrder fo = new FormOrder();
+            fo.ShowDialog();
+            this.Close();*/
         }
     }
 }

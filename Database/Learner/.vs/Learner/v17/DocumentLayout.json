@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\learner\\learner\\formhomescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|solutionrelative:learner\\formhomescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\learner\\learner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|solutionrelative:learner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\learner\\learner\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|solutionrelative:learner\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\learner\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|solutionrelative:learner\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\learner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|solutionrelative:learner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\learner\\learner\\formstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\learner\\formstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|solutionrelative:learner\\formstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\learner\\learner\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|solutionrelative:learner\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\learner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|solutionrelative:learner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\learner\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FD3EC763-C0F2-4F76-B1E6-02BDCE37D37F}|Learner\\Learner.csproj|solutionrelative:learner\\formstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "FormHomeScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\FormHomeScreen.cs",
+              "RelativeDocumentMoniker": "Learner\\FormHomeScreen.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\FormHomeScreen.cs [Design]*",
+              "RelativeToolTip": "Learner\\FormHomeScreen.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T01:15:19.462Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FormStaff.cs",
               "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\FormStaff.cs",
               "RelativeDocumentMoniker": "Learner\\FormStaff.cs",
@@ -51,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "FormStaff.cs [Design]",
               "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\FormStaff.cs",
               "RelativeDocumentMoniker": "Learner\\FormStaff.cs",
@@ -62,20 +78,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "FormStudent.cs",
               "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\FormStudent.cs",
               "RelativeDocumentMoniker": "Learner\\FormStudent.cs",
               "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\FormStudent.cs",
               "RelativeToolTip": "Learner\\FormStudent.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFYAAAA+AAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAwEoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T17:16:09.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "FormStudent.cs [Design]",
               "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\FormStudent.cs",
               "RelativeDocumentMoniker": "Learner\\FormStudent.cs",
@@ -86,13 +102,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\Form1.cs",
               "RelativeDocumentMoniker": "Learner\\Form1.cs",
               "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\Form1.cs",
               "RelativeToolTip": "Learner\\Form1.cs",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAAAIcAAAAdAAAA",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAuwKEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T17:41:25.568Z",
               "EditorCaption": ""
@@ -103,8 +119,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\Form1.cs",
               "RelativeDocumentMoniker": "Learner\\Form1.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\Form1.cs [Design]",
-              "RelativeToolTip": "Learner\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\Learner\\Learner\\Form1.cs [Design]*",
+              "RelativeToolTip": "Learner\\Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T04:40:51.394Z"
             }

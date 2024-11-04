@@ -62,7 +62,7 @@
             groupBox1.Size = new Size(177, 403);
             groupBox1.TabIndex = 1;
             groupBox1.TabStop = false;
-            groupBox1.Text = "groupBox1";
+            groupBox1.Text = "Dashboard";
             // 
             // button6
             // 
@@ -72,6 +72,7 @@
             button6.TabIndex = 1;
             button6.Text = "Orders";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // button5
             // 
@@ -81,6 +82,7 @@
             button5.TabIndex = 5;
             button5.Text = "Product";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button4
             // 
@@ -90,6 +92,7 @@
             button4.TabIndex = 4;
             button4.Text = "Inventory";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button3
             // 
@@ -99,6 +102,7 @@
             button3.TabIndex = 3;
             button3.Text = "Supplier";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button2
             // 
@@ -108,6 +112,7 @@
             button2.TabIndex = 2;
             button2.Text = "Customer";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button1
             // 
@@ -117,6 +122,7 @@
             button1.TabIndex = 1;
             button1.Text = "Employee";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // groupBox2
             // 

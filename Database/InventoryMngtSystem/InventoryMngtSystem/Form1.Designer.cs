@@ -71,6 +71,7 @@
             groupBox1.TabIndex = 10;
             groupBox1.TabStop = false;
             groupBox1.Text = "Login Details";
+            groupBox1.Enter += groupBox1_Enter;
             // 
             // label8
             // 

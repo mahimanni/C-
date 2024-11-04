@@ -51,7 +51,7 @@ namespace InventoryMngtSystem
 
         private void button7_Click(object sender, EventArgs e)
         {
-            string user_name,user_contactperson, user_email;
+            string user_name, user_contactperson, user_email;
             user_name = textBox2.Text;
             user_contactperson = textBox3.Text;
             user_email = textBox4.Text;
@@ -97,6 +97,42 @@ namespace InventoryMngtSystem
             {
                 conn.Close();// Close the connection
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormEmployee fe = new FormEmployee();
+            fe.ShowDialog();
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FormCustomer fc = new FormCustomer();
+            fc.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            FormSupplier fs = new FormSupplier();
+            fs.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            FormInventory fi = new FormInventory();
+            fi.ShowDialog();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            FormProduct fp = new FormProduct();
+            fp.ShowDialog();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            /*FormOrder fo = new FormOrder();
+            fo.ShowDialog();
+            this.Close();*/
         }
     }
 }

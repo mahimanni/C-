@@ -48,7 +48,7 @@
             groupBox1.Controls.Add(label3);
             groupBox1.Controls.Add(label2);
             groupBox1.Controls.Add(label1);
-            groupBox1.Location = new Point(200, 77);
+            groupBox1.Location = new Point(386, 134);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(400, 296);
             groupBox1.TabIndex = 1;
@@ -120,7 +120,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1178, 644);
             Controls.Add(groupBox1);
             Name = "FormAdmin";
             Text = "FormAdmin";
