@@ -14,6 +14,7 @@ namespace InventoryMngtSystem
         public Form1()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
         private void createTable()
         {

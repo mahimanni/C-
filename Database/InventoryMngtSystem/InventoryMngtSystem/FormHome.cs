@@ -24,6 +24,7 @@ namespace InventoryMngtSystem
         public FormHome()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void FormHome_Load(object sender, EventArgs e)
@@ -68,6 +69,11 @@ namespace InventoryMngtSystem
         {
             //for blinking of the software name
             label2.Visible = !label2.Visible;
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -15,6 +15,7 @@ namespace InventoryMngtSystem
         public FormAdmin()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
         //<------------------------------------------------------------------------------Admin Authorization--------------------------------------------------------------------------------------------------------------->
         private void button1_Click(object sender, EventArgs e)

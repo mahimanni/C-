@@ -20,6 +20,7 @@ namespace InventoryMngtSystem
         public FormEmployee()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void FormEmployee_Load(object sender, EventArgs e)
@@ -153,8 +154,6 @@ namespace InventoryMngtSystem
 
         private void button1_Click(object sender, EventArgs e)
         {
-            FormEmployee fe = new FormEmployee();
-            fe.ShowDialog();
         }
         private void button2_Click(object sender, EventArgs e)
         {
@@ -182,9 +181,9 @@ namespace InventoryMngtSystem
 
         private void button6_Click(object sender, EventArgs e)
         {
-            /*FormOrder fo = new FormOrder();
-            fo.ShowDialog();
-            this.Close();*/
+            FormAdminOrderDisplay fod = new FormAdminOrderDisplay();
+            fod.ShowDialog();
+            //this.Close();
         }
     }
 }

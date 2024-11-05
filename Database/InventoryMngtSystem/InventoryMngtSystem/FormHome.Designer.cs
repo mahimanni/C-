@@ -44,6 +44,7 @@
             label3.Size = new Size(59, 25);
             label3.TabIndex = 11;
             label3.Text = "label3";
+            label3.Click += label3_Click;
             // 
             // progressBar1
             // 

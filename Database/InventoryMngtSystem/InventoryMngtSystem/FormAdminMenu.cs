@@ -15,6 +15,7 @@ namespace InventoryMngtSystem
         public FormAdminMenu()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void FormAdminMenu_Load(object sender, EventArgs e)
@@ -59,9 +60,9 @@ namespace InventoryMngtSystem
 
         private void button6_Click(object sender, EventArgs e)
         {
-            /*FormOrder fo = new FormOrder();
-            fo.ShowDialog();
-            this.Close();*/
+            FormAdminOrderDisplay fod = new FormAdminOrderDisplay();
+            fod.ShowDialog();
+            //this.Close();
         }
     }
 }

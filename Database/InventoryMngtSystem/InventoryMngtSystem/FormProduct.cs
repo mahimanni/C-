@@ -25,6 +25,7 @@ namespace InventoryMngtSystem
         public FormProduct()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void FormProduct_Load(object sender, EventArgs e)
@@ -134,15 +135,15 @@ namespace InventoryMngtSystem
 
         private void button5_Click(object sender, EventArgs e)
         {
-            FormProduct fp = new FormProduct();
-            fp.ShowDialog();
+            /*FormProduct fp = new FormProduct();
+            fp.ShowDialog();*/
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            /*FormOrder fo = new FormOrder();
-            fo.ShowDialog();
-            this.Close();*/
+            FormAdminOrderDisplay fod = new FormAdminOrderDisplay();
+            fod.ShowDialog();
+            //this.Close();
         }
     }
 }

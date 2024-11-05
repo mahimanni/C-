@@ -22,6 +22,7 @@ namespace InventoryMngtSystem
         public FormCustomer()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void FormCustomer_Load(object sender, EventArgs e)

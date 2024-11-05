@@ -1,6 +1,6 @@
 ﻿namespace InventoryMngtSystem
 {
-    partial class FormAdminMenu
+    partial class FormAdminOrderDisplay
     {
         /// <summary>
         /// Required designer variable.
@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            dataGridViewOrders = new DataGridView();
             groupBox1 = new GroupBox();
             button6 = new Button();
             button5 = new Button();
@@ -35,8 +36,19 @@
             button3 = new Button();
             button2 = new Button();
             button1 = new Button();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewOrders).BeginInit();
             groupBox1.SuspendLayout();
             SuspendLayout();
+            // 
+            // dataGridViewOrders
+            // 
+            dataGridViewOrders.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewOrders.Location = new Point(342, 37);
+            dataGridViewOrders.Name = "dataGridViewOrders";
+            dataGridViewOrders.RowHeadersWidth = 62;
+            dataGridViewOrders.Size = new Size(824, 524);
+            dataGridViewOrders.TabIndex = 33;
+            dataGridViewOrders.CellContentClick += dataGridViewOrders_CellContentClick;
             // 
             // groupBox1
             // 
@@ -46,10 +58,10 @@
             groupBox1.Controls.Add(button3);
             groupBox1.Controls.Add(button2);
             groupBox1.Controls.Add(button1);
-            groupBox1.Location = new Point(27, 107);
+            groupBox1.Location = new Point(31, 80);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(177, 403);
-            groupBox1.TabIndex = 0;
+            groupBox1.Size = new Size(177, 394);
+            groupBox1.TabIndex = 34;
             groupBox1.TabStop = false;
             groupBox1.Text = "Dashboard";
             // 
@@ -113,27 +125,30 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
-            // FormAdminMenu
+            // FormAdminOrderDisplay
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1178, 644);
             Controls.Add(groupBox1);
-            Name = "FormAdminMenu";
-            Text = "FormAdminMenu";
-            Load += FormAdminMenu_Load;
+            Controls.Add(dataGridViewOrders);
+            Name = "FormAdminOrderDisplay";
+            Text = "FormAdminOrderDisplay";
+            Load += FormAdminOrderDisplay_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridViewOrders).EndInit();
             groupBox1.ResumeLayout(false);
             ResumeLayout(false);
         }
 
         #endregion
 
+        private DataGridView dataGridViewOrders;
         private GroupBox groupBox1;
+        private Button button6;
+        private Button button5;
         private Button button4;
         private Button button3;
         private Button button2;
         private Button button1;
-        private Button button5;
-        private Button button6;
     }
 }

@@ -22,6 +22,7 @@ namespace InventoryMngtSystem
         public FormInventory()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -116,8 +117,8 @@ namespace InventoryMngtSystem
 
         private void button4_Click(object sender, EventArgs e)
         {
-            FormInventory fi = new FormInventory();
-            fi.ShowDialog();
+           /* FormInventory fi = new FormInventory();
+            fi.ShowDialog();*/
         }
 
         private void button5_Click(object sender, EventArgs e)
@@ -128,9 +129,9 @@ namespace InventoryMngtSystem
 
         private void button6_Click(object sender, EventArgs e)
         {
-            /*FormOrder fo = new FormOrder();
-            fo.ShowDialog();
-            this.Close();*/
+            FormAdminOrderDisplay fod = new FormAdminOrderDisplay();
+            fod.ShowDialog();
+            //this.Close();
         }
     }
 }

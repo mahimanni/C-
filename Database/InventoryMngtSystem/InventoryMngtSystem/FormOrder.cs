@@ -26,6 +26,7 @@ namespace InventoryMngtSystem
         public FormOrder()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.CenterScreen;
         }
         private void FormOrder_Load(object sender, EventArgs e)
         {
