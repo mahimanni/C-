@@ -36,6 +36,7 @@
             button2 = new Button();
             button1 = new Button();
             groupBox2 = new GroupBox();
+            comboBox1 = new ComboBox();
             textBox6 = new TextBox();
             label8 = new Label();
             label7 = new Label();
@@ -51,9 +52,12 @@
             label3 = new Label();
             label2 = new Label();
             label1 = new Label();
-            comboBox1 = new ComboBox();
+            groupBox3 = new GroupBox();
+            button9 = new Button();
+            button8 = new Button();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
+            groupBox3.SuspendLayout();
             SuspendLayout();
             // 
             // groupBox1
@@ -64,9 +68,9 @@
             groupBox1.Controls.Add(button3);
             groupBox1.Controls.Add(button2);
             groupBox1.Controls.Add(button1);
-            groupBox1.Location = new Point(36, 102);
+            groupBox1.Location = new Point(68, 44);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(177, 403);
+            groupBox1.Size = new Size(177, 356);
             groupBox1.TabIndex = 2;
             groupBox1.TabStop = false;
             groupBox1.Text = "Dashboard";
@@ -155,6 +159,14 @@
             groupBox2.TabIndex = 3;
             groupBox2.TabStop = false;
             groupBox2.Text = "Product Details";
+            // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Location = new Point(159, 313);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(151, 33);
+            comboBox1.TabIndex = 34;
             // 
             // textBox6
             // 
@@ -281,19 +293,43 @@
             label1.TabIndex = 0;
             label1.Text = "-----Personal Details-----";
             // 
-            // comboBox1
+            // groupBox3
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(159, 313);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(151, 33);
-            comboBox1.TabIndex = 34;
+            groupBox3.Controls.Add(button9);
+            groupBox3.Controls.Add(button8);
+            groupBox3.Location = new Point(39, 417);
+            groupBox3.Name = "groupBox3";
+            groupBox3.Size = new Size(244, 140);
+            groupBox3.TabIndex = 4;
+            groupBox3.TabStop = false;
+            groupBox3.Text = "Additional";
+            // 
+            // button9
+            // 
+            button9.Location = new Point(29, 100);
+            button9.Name = "button9";
+            button9.Size = new Size(194, 34);
+            button9.TabIndex = 3;
+            button9.Text = "Show All Records";
+            button9.UseVisualStyleBackColor = true;
+            button9.Click += button9_Click;
+            // 
+            // button8
+            // 
+            button8.Location = new Point(56, 50);
+            button8.Name = "button8";
+            button8.Size = new Size(139, 34);
+            button8.TabIndex = 2;
+            button8.Text = "DELETE";
+            button8.UseVisualStyleBackColor = true;
+            button8.Click += button8_Click;
             // 
             // FormProduct
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1178, 644);
+            Controls.Add(groupBox3);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Name = "FormProduct";
@@ -302,6 +338,7 @@
             groupBox1.ResumeLayout(false);
             groupBox2.ResumeLayout(false);
             groupBox2.PerformLayout();
+            groupBox3.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -331,5 +368,8 @@
         private Label label6;
         private Label label5;
         private ComboBox comboBox1;
+        private GroupBox groupBox3;
+        private Button button9;
+        private Button button8;
     }
 }

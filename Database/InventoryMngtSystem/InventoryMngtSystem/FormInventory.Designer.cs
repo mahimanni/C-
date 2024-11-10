@@ -90,8 +90,12 @@
             label1 = new Label();
             textBox1 = new TextBox();
             button7 = new Button();
+            groupBox3 = new GroupBox();
+            button9 = new Button();
+            button10 = new Button();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
+            groupBox3.SuspendLayout();
             SuspendLayout();
             // 
             // groupBox1
@@ -102,9 +106,9 @@
             groupBox1.Controls.Add(button3);
             groupBox1.Controls.Add(button2);
             groupBox1.Controls.Add(button1);
-            groupBox1.Location = new Point(56, 102);
+            groupBox1.Location = new Point(58, 21);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(177, 403);
+            groupBox1.Size = new Size(177, 350);
             groupBox1.TabIndex = 2;
             groupBox1.TabStop = false;
             groupBox1.Text = "Dashboard";
@@ -679,11 +683,43 @@
             button7.UseVisualStyleBackColor = true;
             button7.Click += button7_Click;
             // 
+            // groupBox3
+            // 
+            groupBox3.Controls.Add(button9);
+            groupBox3.Controls.Add(button10);
+            groupBox3.Location = new Point(12, 404);
+            groupBox3.Name = "groupBox3";
+            groupBox3.Size = new Size(244, 140);
+            groupBox3.TabIndex = 5;
+            groupBox3.TabStop = false;
+            groupBox3.Text = "Additional";
+            // 
+            // button9
+            // 
+            button9.Location = new Point(29, 100);
+            button9.Name = "button9";
+            button9.Size = new Size(194, 34);
+            button9.TabIndex = 3;
+            button9.Text = "Show All Records";
+            button9.UseVisualStyleBackColor = true;
+            button9.Click += button9_Click;
+            // 
+            // button10
+            // 
+            button10.Location = new Point(56, 50);
+            button10.Name = "button10";
+            button10.Size = new Size(139, 34);
+            button10.TabIndex = 2;
+            button10.Text = "DELETE";
+            button10.UseVisualStyleBackColor = true;
+            button10.Click += button10_Click;
+            // 
             // FormInventory
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1178, 644);
+            Controls.Add(groupBox3);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Name = "FormInventory";
@@ -691,6 +727,7 @@
             groupBox1.ResumeLayout(false);
             groupBox2.ResumeLayout(false);
             groupBox2.PerformLayout();
+            groupBox3.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -758,5 +795,8 @@
         private ComboBox comboBox4;
         private TextBox textBox2;
         private Button button8;
+        private GroupBox groupBox3;
+        private Button button9;
+        private Button button10;
     }
 }

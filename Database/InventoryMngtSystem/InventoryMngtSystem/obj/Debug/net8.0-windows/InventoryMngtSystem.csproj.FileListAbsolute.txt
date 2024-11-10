@@ -75,3 +75,7 @@ C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.ShowInventory.resources
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.ShowOrders.resources
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.ShowProducts.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.DeleteProducts.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.DeleteInventory.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.DeleteSupplier.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.ShowSupplier.resources

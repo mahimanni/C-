@@ -45,7 +45,7 @@ namespace InventoryMngtSystem
             product_category = textBox6.Text;
             product_sid = comboBox1.Text;
 
-            if (product_name=="" || product_desc=="" || product_quantity=="" || product_price=="" || product_category=="" || product_sid=="")
+            if (product_name == "" || product_desc == "" || product_quantity == "" || product_price == "" || product_category == "" || product_sid == "")
             {
                 MessageBox.Show("All fields are necessary to be filled");
                 return;
@@ -132,13 +132,13 @@ namespace InventoryMngtSystem
             conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True");
             string query = "SELECT sid FROM supplier";// SQL query to get all sids from the supplier table
             conn.Open();// Open the connection
-            cmd = new SqlCommand(query,conn);
+            cmd = new SqlCommand(query, conn);
             dr = cmd.ExecuteReader();// Execute the command and read the data
-                        
+
             comboBox1.Items.Clear();// Clear the ComboBox before adding new items
-            
+
             while (dr.Read())// Check if there are any rows returned
-            {            
+            {
                 comboBox1.Items.Add(dr["sid"].ToString());// Add each sid value from the supplier table to the ComboBox
             }
             conn.Close();
@@ -178,6 +178,18 @@ namespace InventoryMngtSystem
             FormAdminOrderDisplay fod = new FormAdminOrderDisplay();
             fod.ShowDialog();
             //this.Close();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            ShowProducts p = new ShowProducts();
+            p.ShowDialog();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            DeleteProducts dp = new DeleteProducts();
+            dp.ShowDialog();
         }
     }
 }

@@ -251,9 +251,9 @@ namespace InventoryMngtSystem
         private string getProductName(string productid)
         {
             // Get the Product ID (pid) entered by the user
-            int pid = Convert.ToInt32(productid); 
+            int pid = Convert.ToInt32(productid);
 
-            string connectionString = "Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True";            
+            string connectionString = "Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True";
             string selectQuery = "SELECT pname FROM product WHERE pid = @pid";
 
             // Create a new connection object
@@ -297,6 +297,18 @@ namespace InventoryMngtSystem
         {
             textBox24.Text = getProductName(comboBox4.Text);
             getSidAndPquantity(Convert.ToInt32(comboBox4.Text));
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            ShowInventory si= new ShowInventory();
+            si.ShowDialog();
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            DeleteInventory di= new DeleteInventory();
+            di.ShowDialog();
         }
     }
 }

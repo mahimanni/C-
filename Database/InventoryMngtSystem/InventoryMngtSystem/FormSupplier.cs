@@ -133,5 +133,17 @@ namespace InventoryMngtSystem
             fod.ShowDialog();
             //this.Close();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            DeleteSupplier ds = new DeleteSupplier();
+            ds.ShowDialog();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            ShowSupplier ss = new ShowSupplier();
+            ss.ShowDialog();
+        }
     }
 }
