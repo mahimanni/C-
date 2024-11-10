@@ -1,6 +1,6 @@
 ﻿namespace InventoryMngtSystem
 {
-    partial class ShowSupplier
+    partial class ShowEmployee
     {
         /// <summary>
         /// Required designer variable.
@@ -28,34 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dataGridViewSupplier = new DataGridView();
-            ((System.ComponentModel.ISupportInitialize)dataGridViewSupplier).BeginInit();
+            dataGridViewEmployee = new DataGridView();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewEmployee).BeginInit();
             SuspendLayout();
             // 
-            // dataGridViewSupplier
+            // dataGridViewEmployee
             // 
-            dataGridViewSupplier.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewSupplier.Location = new Point(248, 24);
-            dataGridViewSupplier.Name = "dataGridViewSupplier";
-            dataGridViewSupplier.RowHeadersWidth = 62;
-            dataGridViewSupplier.Size = new Size(632, 528);
-            dataGridViewSupplier.TabIndex = 1;
+            dataGridViewEmployee.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewEmployee.Location = new Point(69, 59);
+            dataGridViewEmployee.Name = "dataGridViewEmployee";
+            dataGridViewEmployee.RowHeadersWidth = 62;
+            dataGridViewEmployee.Size = new Size(1041, 527);
+            dataGridViewEmployee.TabIndex = 1;
             // 
-            // ShowSupplier
+            // ShowEmployee
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1178, 644);
-            Controls.Add(dataGridViewSupplier);
-            Name = "ShowSupplier";
-            Text = "ShowSupplier";
-            Load += ShowSupplier_Load;
-            ((System.ComponentModel.ISupportInitialize)dataGridViewSupplier).EndInit();
+            Controls.Add(dataGridViewEmployee);
+            Name = "ShowEmployee";
+            Text = "ShowEmployee";
+            Load += ShowEmployee_Load;
+            ((System.ComponentModel.ISupportInitialize)dataGridViewEmployee).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
-        private DataGridView dataGridViewSupplier;
+        private DataGridView dataGridViewEmployee;
     }
 }

@@ -190,5 +190,17 @@ namespace InventoryMngtSystem
         {
 
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            DeleteEmployee de = new DeleteEmployee();
+            de.ShowDialog();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            ShowEmployee se= new ShowEmployee();
+            se.ShowDialog();
+        }
     }
 }
