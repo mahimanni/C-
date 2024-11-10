@@ -16,6 +16,8 @@ namespace InventoryMngtSystem
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;
+            pictureBox1.ImageLocation = @$"C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\assests\admin.jpg";
+            pictureBox1.Load();
         }
         //<------------------------------------------------------------------------------Admin Authorization--------------------------------------------------------------------------------------------------------------->
         private void button1_Click(object sender, EventArgs e)

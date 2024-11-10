@@ -38,6 +38,8 @@ namespace InventoryMngtSystem
             //createTable();
             comboBox1.Items.Add("Employee");
             comboBox1.Items.Add("Customer");
+            pictureBox2.ImageLocation = @$"C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\assests\login2.jpg";
+            pictureBox2.Load();
             captchaDisplay();
         }
 
@@ -124,7 +126,7 @@ namespace InventoryMngtSystem
                         if (person == "Employee")
                         {
                             FormEmpMenu fem = new FormEmpMenu();
-                            this.ShowDialog();
+                            fem.ShowDialog();
                         }
                         else if(person=="Customer")
                         {

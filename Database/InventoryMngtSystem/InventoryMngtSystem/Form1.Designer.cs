@@ -44,8 +44,10 @@
             textBox1 = new TextBox();
             comboBox1 = new ComboBox();
             button1 = new Button();
+            pictureBox2 = new PictureBox();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
             // groupBox1
@@ -65,7 +67,7 @@
             groupBox1.Controls.Add(textBox1);
             groupBox1.Controls.Add(comboBox1);
             groupBox1.Controls.Add(button1);
-            groupBox1.Location = new Point(334, 31);
+            groupBox1.Location = new Point(426, 12);
             groupBox1.Name = "groupBox1";
             groupBox1.Size = new Size(457, 576);
             groupBox1.TabIndex = 10;
@@ -202,11 +204,21 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // pictureBox2
+            // 
+            pictureBox2.Location = new Point(121, 120);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(261, 360);
+            pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox2.TabIndex = 11;
+            pictureBox2.TabStop = false;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1178, 644);
+            Controls.Add(pictureBox2);
             Controls.Add(groupBox1);
             Name = "Form1";
             Text = "LoginForm";
@@ -214,6 +226,7 @@
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
         }
 
@@ -235,5 +248,6 @@
         private ComboBox comboBox1;
         private Button button1;
         private Label label8;
+        private PictureBox pictureBox2;
     }
 }

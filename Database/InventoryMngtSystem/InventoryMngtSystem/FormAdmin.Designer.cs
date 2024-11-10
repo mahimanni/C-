@@ -36,7 +36,9 @@
             label3 = new Label();
             label2 = new Label();
             label1 = new Label();
+            pictureBox1 = new PictureBox();
             groupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // groupBox1
@@ -48,9 +50,9 @@
             groupBox1.Controls.Add(label3);
             groupBox1.Controls.Add(label2);
             groupBox1.Controls.Add(label1);
-            groupBox1.Location = new Point(386, 134);
+            groupBox1.Location = new Point(471, 114);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(400, 296);
+            groupBox1.Size = new Size(427, 318);
             groupBox1.TabIndex = 1;
             groupBox1.TabStop = false;
             groupBox1.Text = "Admin Credentials";
@@ -116,16 +118,27 @@
             label1.TabIndex = 0;
             label1.Text = "Name";
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Location = new Point(106, 131);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(312, 301);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 10;
+            pictureBox1.TabStop = false;
+            // 
             // FormAdmin
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1178, 644);
+            Controls.Add(pictureBox1);
             Controls.Add(groupBox1);
             Name = "FormAdmin";
             Text = "FormAdmin";
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
@@ -139,5 +152,6 @@
         private Label label3;
         private Label label2;
         private Label label1;
+        private PictureBox pictureBox1;
     }
 }
