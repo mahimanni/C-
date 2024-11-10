@@ -11,6 +11,7 @@ namespace InventoryMngtSystem
         SqlDataReader dr;
         Random r = new Random();
         string val = "";
+        public static bool signCus= false;
         public Form1()
         {
             InitializeComponent();
@@ -153,6 +154,7 @@ namespace InventoryMngtSystem
         //Signup Window for Customer
         private void label8_Click(object sender, EventArgs e)
         {
+            signCus = true;
             FormCustomer fc = new FormCustomer();
             fc.ShowDialog();
             //this.Close();

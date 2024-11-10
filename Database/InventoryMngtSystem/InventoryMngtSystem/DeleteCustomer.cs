@@ -8,27 +8,26 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace InventoryMngtSystem
 {
-    public partial class DeleteProducts : Form
+    public partial class DeleteCustomer : Form
     {
         SqlConnection conn;
         string str, sql;
         SqlCommand cmd;
         SqlDataAdapter da;
         SqlDataReader dr;
-        public DeleteProducts()
+        public DeleteCustomer()
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;
-            loadProductIDs();
+            loadCustomerIDs();
         }
-        private void loadProductIDs()
+        private void loadCustomerIDs()
         {
             conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True");
-            string query = "SELECT pid FROM product";// SQL query to get all sids from the supplier table
+            string query = "SELECT id FROM customer";
             conn.Open();// Open the connection
             cmd = new SqlCommand(query, conn);
             dr = cmd.ExecuteReader();// Execute the command and read the data
@@ -37,39 +36,40 @@ namespace InventoryMngtSystem
 
             while (dr.Read())// Check if there are any rows returned
             {
-                comboBox4.Items.Add(dr["pid"].ToString());// Add each sid value from the supplier table to the ComboBox
+                comboBox4.Items.Add(dr["id"].ToString());// Add each sid value from the supplier table to the ComboBox
             }
             conn.Close();
         }
 
-        private void DeleteProducts_Load(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
-            conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True");
+
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
+            conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True");
             string id = comboBox4.Text;
             if (string.IsNullOrWhiteSpace(id))
             {
-                MessageBox.Show("Please select a Product ID to delete.");
+                MessageBox.Show("Please select a Customer ID to delete.");
                 return;
             }
             conn.Open();
-            sql = "delete from product where pid= @pid";
+            sql = "delete from customer where id= @id";
             cmd = new SqlCommand(sql, conn);
-            cmd.Parameters.AddWithValue("@pid", id);
+            cmd.Parameters.AddWithValue("@id", id);
 
             int rowsAffected = cmd.ExecuteNonQuery();
             if (rowsAffected > 0)
             {
-                MessageBox.Show("Product deleted successfully");
+                MessageBox.Show("Customer deleted successfully");
                 comboBox4.Text = "";
-                loadProductIDs();
+                loadCustomerIDs();
             }
             else
             {
-                MessageBox.Show("No product found with the specified Product ID.");
+                MessageBox.Show("No Customer found with the specified Customer ID.");
             }
             conn.Close();
         }

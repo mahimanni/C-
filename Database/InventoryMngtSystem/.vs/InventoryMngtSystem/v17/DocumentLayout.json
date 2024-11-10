@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\showemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\showemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\deletecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\deletecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\showemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\showemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\deleteproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\deleteproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\deletecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\deletecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\showcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\showcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\showproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\showproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\showproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\showproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShowEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowEmployee.cs",
-              "RelativeDocumentMoniker": "InventoryMngtSystem\\ShowEmployee.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowEmployee.cs",
-              "RelativeToolTip": "InventoryMngtSystem\\ShowEmployee.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADoAAAAgAAAA",
+              "DocumentIndex": 1,
+              "Title": "DeleteProducts.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\DeleteProducts.cs",
+              "RelativeDocumentMoniker": "InventoryMngtSystem\\DeleteProducts.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\DeleteProducts.cs",
+              "RelativeToolTip": "InventoryMngtSystem\\DeleteProducts.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T19:07:05.948Z",
+              "WhenOpened": "2024-11-10T20:25:04.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ShowEmployee.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowEmployee.cs",
-              "RelativeDocumentMoniker": "InventoryMngtSystem\\ShowEmployee.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowEmployee.cs [Design]",
-              "RelativeToolTip": "InventoryMngtSystem\\ShowEmployee.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "DeleteCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\DeleteCustomer.cs",
+              "RelativeDocumentMoniker": "InventoryMngtSystem\\DeleteCustomer.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\DeleteCustomer.cs",
+              "RelativeToolTip": "InventoryMngtSystem\\DeleteCustomer.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwBcAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T19:06:51.34Z",
+              "WhenOpened": "2024-11-10T20:24:29.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowProducts.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowProducts.cs",
+              "RelativeDocumentMoniker": "InventoryMngtSystem\\ShowProducts.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowProducts.cs",
+              "RelativeToolTip": "InventoryMngtSystem\\ShowProducts.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:14:32.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowProducts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowProducts.cs",
+              "RelativeDocumentMoniker": "InventoryMngtSystem\\ShowProducts.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowProducts.cs [Design]",
+              "RelativeToolTip": "InventoryMngtSystem\\ShowProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:14:29.836Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\DeleteCustomer.cs",
+              "RelativeDocumentMoniker": "InventoryMngtSystem\\DeleteCustomer.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\DeleteCustomer.cs [Design]",
+              "RelativeToolTip": "InventoryMngtSystem\\DeleteCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:27:17.99Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowCustomer.cs",
+              "RelativeDocumentMoniker": "InventoryMngtSystem\\ShowCustomer.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowCustomer.cs",
+              "RelativeToolTip": "InventoryMngtSystem\\ShowCustomer.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAuwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:08:51.109Z",
+              "EditorCaption": ""
             }
           ]
         }

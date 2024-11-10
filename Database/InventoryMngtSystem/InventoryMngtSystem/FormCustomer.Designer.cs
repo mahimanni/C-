@@ -55,7 +55,19 @@
             label3 = new Label();
             label2 = new Label();
             label1 = new Label();
+            groupBox2 = new GroupBox();
+            button6 = new Button();
+            button5 = new Button();
+            button4 = new Button();
+            button3 = new Button();
+            button2 = new Button();
+            button7 = new Button();
+            groupBox3 = new GroupBox();
+            button9 = new Button();
+            button8 = new Button();
             groupBox1.SuspendLayout();
+            groupBox2.SuspendLayout();
+            groupBox3.SuspendLayout();
             SuspendLayout();
             // 
             // groupBox1
@@ -319,17 +331,127 @@
             label1.TabIndex = 0;
             label1.Text = "*Name";
             // 
+            // groupBox2
+            // 
+            groupBox2.Controls.Add(button6);
+            groupBox2.Controls.Add(button5);
+            groupBox2.Controls.Add(button4);
+            groupBox2.Controls.Add(button3);
+            groupBox2.Controls.Add(button2);
+            groupBox2.Controls.Add(button7);
+            groupBox2.Location = new Point(69, 38);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Size = new Size(177, 356);
+            groupBox2.TabIndex = 3;
+            groupBox2.TabStop = false;
+            groupBox2.Text = "Dashboard";
+            // 
+            // button6
+            // 
+            button6.Location = new Point(15, 309);
+            button6.Name = "button6";
+            button6.Size = new Size(139, 34);
+            button6.TabIndex = 1;
+            button6.Text = "Orders";
+            button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
+            // 
+            // button5
+            // 
+            button5.Location = new Point(15, 254);
+            button5.Name = "button5";
+            button5.Size = new Size(139, 36);
+            button5.TabIndex = 5;
+            button5.Text = "Product";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
+            // 
+            // button4
+            // 
+            button4.Location = new Point(15, 198);
+            button4.Name = "button4";
+            button4.Size = new Size(139, 36);
+            button4.TabIndex = 4;
+            button4.Text = "Inventory";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
+            // button3
+            // 
+            button3.Location = new Point(15, 145);
+            button3.Name = "button3";
+            button3.Size = new Size(139, 36);
+            button3.TabIndex = 3;
+            button3.Text = "Supplier";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(15, 92);
+            button2.Name = "button2";
+            button2.Size = new Size(139, 36);
+            button2.TabIndex = 2;
+            button2.Text = "Customer";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
+            // 
+            // button7
+            // 
+            button7.Location = new Point(15, 41);
+            button7.Name = "button7";
+            button7.Size = new Size(139, 36);
+            button7.TabIndex = 1;
+            button7.Text = "Employee";
+            button7.UseVisualStyleBackColor = true;
+            button7.Click += button7_Click;
+            // 
+            // groupBox3
+            // 
+            groupBox3.Controls.Add(button9);
+            groupBox3.Controls.Add(button8);
+            groupBox3.Location = new Point(47, 423);
+            groupBox3.Name = "groupBox3";
+            groupBox3.Size = new Size(244, 140);
+            groupBox3.TabIndex = 5;
+            groupBox3.TabStop = false;
+            groupBox3.Text = "Additional";
+            // 
+            // button9
+            // 
+            button9.Location = new Point(29, 100);
+            button9.Name = "button9";
+            button9.Size = new Size(194, 34);
+            button9.TabIndex = 3;
+            button9.Text = "Show All Records";
+            button9.UseVisualStyleBackColor = true;
+            button9.Click += button9_Click;
+            // 
+            // button8
+            // 
+            button8.Location = new Point(56, 50);
+            button8.Name = "button8";
+            button8.Size = new Size(139, 34);
+            button8.TabIndex = 2;
+            button8.Text = "DELETE";
+            button8.UseVisualStyleBackColor = true;
+            button8.Click += button8_Click;
+            // 
             // FormCustomer
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1178, 644);
+            Controls.Add(groupBox3);
+            Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Name = "FormCustomer";
             Text = "FormCustomer";
             Load += FormCustomer_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
+            groupBox2.ResumeLayout(false);
+            groupBox3.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -362,5 +484,15 @@
         private Label label10;
         private ComboBox comboBox2;
         private Label label13;
+        private GroupBox groupBox2;
+        private Button button6;
+        private Button button5;
+        private Button button4;
+        private Button button3;
+        private Button button2;
+        private Button button7;
+        private GroupBox groupBox3;
+        private Button button9;
+        private Button button8;
     }
 }

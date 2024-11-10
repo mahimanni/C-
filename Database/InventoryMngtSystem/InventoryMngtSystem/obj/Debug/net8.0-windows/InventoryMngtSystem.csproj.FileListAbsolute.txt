@@ -81,3 +81,5 @@ C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.ShowSupplier.resources
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.DeleteEmployee.resources
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.ShowEmployee.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.DeleteCustomer.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.ShowCustomer.resources

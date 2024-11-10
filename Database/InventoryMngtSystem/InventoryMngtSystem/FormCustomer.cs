@@ -23,6 +23,12 @@ namespace InventoryMngtSystem
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;
+
+            if (Form1.signCus == true)
+            {
+                groupBox2.Visible = false;
+                groupBox3.Visible = false;
+            }
         }
 
         private void FormCustomer_Load(object sender, EventArgs e)
@@ -149,7 +155,7 @@ namespace InventoryMngtSystem
             user_state = comboBox1.Text;
             user_country = comboBox2.Text;
 
-            if(user_name=="" || user_age=="" || user_email=="" || user_phoneno=="" || user_pwd=="" || user_address=="" || user_pincode=="" || user_state=="" || user_country=="")
+            if (user_name == "" || user_age == "" || user_email == "" || user_phoneno == "" || user_pwd == "" || user_address == "" || user_pincode == "" || user_state == "" || user_country == "")
             {
                 MessageBox.Show("Fields marked with * are necessary to fill");
                 return;
@@ -257,6 +263,52 @@ namespace InventoryMngtSystem
 
                 return recordCount > 0; // If any record matches, return true (duplicate exists)
             }
+        }
+        private void button7_Click(object sender, EventArgs e)
+        {
+            FormEmployee fe = new FormEmployee();
+            fe.ShowDialog();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            FormSupplier fs = new FormSupplier();
+            fs.ShowDialog();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            FormInventory fi = new FormInventory();
+            fi.ShowDialog();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            FormProduct fp= new FormProduct();
+            fp.ShowDialog();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            FormAdminOrderDisplay fod = new FormAdminOrderDisplay();
+            fod.ShowDialog();
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            DeleteCustomer dc = new DeleteCustomer();
+            dc.ShowDialog();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            ShowCustomer sc= new ShowCustomer();
+            sc.ShowDialog();
         }
     }
 }
