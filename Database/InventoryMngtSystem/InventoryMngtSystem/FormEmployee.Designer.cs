@@ -179,6 +179,7 @@
             groupBox2.TabIndex = 2;
             groupBox2.TabStop = false;
             groupBox2.Text = "Employee Details";
+            groupBox2.Enter += groupBox2_Enter;
             // 
             // button7
             // 

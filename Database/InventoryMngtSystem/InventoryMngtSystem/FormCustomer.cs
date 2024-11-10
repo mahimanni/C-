@@ -146,9 +146,24 @@ namespace InventoryMngtSystem
             user_pwd = textBox6.Text;
             user_address = textBox3.Text;
             user_pincode = textBox7.Text;
-            user_state= comboBox1.Text;
+            user_state = comboBox1.Text;
             user_country = comboBox2.Text;
 
+            if(user_name=="" || user_age=="" || user_email=="" || user_phoneno=="" || user_pwd=="" || user_address=="" || user_pincode=="" || user_state=="" || user_country=="")
+            {
+                MessageBox.Show("Fields marked with * are necessary to fill");
+                return;
+            }
+            if (!user_age.All(char.IsDigit))
+            {
+                MessageBox.Show("Age should be in numerals");
+                return;
+            }
+            if (!user_phoneno.All(char.IsDigit))
+            {
+                MessageBox.Show("Phone Number should only consist of digits");
+                return;
+            }
             if (user_phoneno.Length != 10)
             {
                 MessageBox.Show("Phone Number should be of 10 digits");
@@ -188,11 +203,23 @@ namespace InventoryMngtSystem
 
                 if (newId != null)
                 {
-                    MessageBox.Show("Record inserted successfully. New ID: " + newId.ToString());
+                    MessageBox.Show("Customer added successfully. Customer ID: " + newId.ToString());
+                    textBox1.Text = "";
+                    textBox2.Text = "";
+                    textBox3.Text = "";
+                    textBox4.Text = "";
+                    textBox5.Text = "";
+                    textBox6.Text = "";
+                    textBox7.Text = "";
+                    comboBox1.Text = "";
+                    comboBox2.Text = "";
+                    radioButton1.Checked = false;
+                    radioButton2.Checked = false;
+                    radioButton3.Checked = false;
                 }
                 else
                 {
-                    MessageBox.Show("Record inserted, but could not retrieve the ID.");
+                    MessageBox.Show("Customer added, but could not retrieve the ID.");
                 }
             }
             catch (Exception ex)

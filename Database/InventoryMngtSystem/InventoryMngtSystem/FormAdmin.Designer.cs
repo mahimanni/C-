@@ -59,25 +59,25 @@
             // 
             textBox3.Location = new Point(174, 181);
             textBox3.Name = "textBox3";
+            textBox3.PlaceholderText = "Enter password";
             textBox3.Size = new Size(150, 31);
             textBox3.TabIndex = 6;
-            textBox3.Text = "Enter password";
             // 
             // textBox2
             // 
             textBox2.Location = new Point(174, 117);
             textBox2.Name = "textBox2";
+            textBox2.PlaceholderText = "Enter email";
             textBox2.Size = new Size(150, 31);
             textBox2.TabIndex = 5;
-            textBox2.Text = "Enter email";
             // 
             // textBox1
             // 
             textBox1.Location = new Point(174, 56);
             textBox1.Name = "textBox1";
+            textBox1.PlaceholderText = "Enter name";
             textBox1.Size = new Size(150, 31);
             textBox1.TabIndex = 4;
-            textBox1.Text = "Enter name";
             // 
             // button1
             // 
