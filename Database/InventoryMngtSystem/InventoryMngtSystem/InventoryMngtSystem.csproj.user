@@ -37,5 +37,14 @@
     <Compile Update="FormSupplier.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="ShowInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

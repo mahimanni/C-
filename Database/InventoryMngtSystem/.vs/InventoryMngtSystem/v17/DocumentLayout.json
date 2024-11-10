@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\forminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\forminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\formempmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\formempmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\showorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\showorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\inventorymngtsystem\\forminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\forminventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|c:\\users\\manni\\source\\repos\\c#\\database\\inventorymngtsystem\\inventorymngtsystem\\showorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{031D758C-AB42-44F6-9580-157919A3BEDC}|InventoryMngtSystem\\InventoryMngtSystem.csproj|solutionrelative:inventorymngtsystem\\showorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormEmpMenu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\FormEmpMenu.cs",
-              "RelativeDocumentMoniker": "InventoryMngtSystem\\FormEmpMenu.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\FormEmpMenu.cs [Design]",
-              "RelativeToolTip": "InventoryMngtSystem\\FormEmpMenu.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryMngtSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\Program.cs",
+              "RelativeToolTip": "InventoryMngtSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T16:51:54.63Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-10T17:31:35.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowOrders.cs",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowOrders.cs",
+              "RelativeDocumentMoniker": "InventoryMngtSystem\\ShowOrders.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowOrders.cs",
+              "RelativeToolTip": "InventoryMngtSystem\\ShowOrders.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T17:12:09.784Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "InventoryMngtSystem\\Form1.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\Form1.cs",
-              "RelativeToolTip": "InventoryMngtSystem\\Form1.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAAAH0AAAAuAAAA",
+              "Title": "ShowOrders.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowOrders.cs",
+              "RelativeDocumentMoniker": "InventoryMngtSystem\\ShowOrders.cs",
+              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\ShowOrders.cs [Design]",
+              "RelativeToolTip": "InventoryMngtSystem\\ShowOrders.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T16:48:23.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\Form1.cs",
-              "RelativeDocumentMoniker": "InventoryMngtSystem\\Form1.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\Form1.cs [Design]",
-              "RelativeToolTip": "InventoryMngtSystem\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T16:48:20.885Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormInventory.cs",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\FormInventory.cs",
-              "RelativeDocumentMoniker": "InventoryMngtSystem\\FormInventory.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\FormInventory.cs",
-              "RelativeToolTip": "InventoryMngtSystem\\FormInventory.cs",
-              "ViewState": "AQIAABgBAAAAAAAAAAAAACEBAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T06:54:19.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormInventory.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\FormInventory.cs",
-              "RelativeDocumentMoniker": "InventoryMngtSystem\\FormInventory.cs",
-              "ToolTip": "C:\\Users\\manni\\source\\repos\\C#\\Database\\InventoryMngtSystem\\InventoryMngtSystem\\FormInventory.cs [Design]",
-              "RelativeToolTip": "InventoryMngtSystem\\FormInventory.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T07:35:46.914Z",
+              "WhenOpened": "2024-11-10T17:11:40.958Z",
               "EditorCaption": " [Design]"
             }
           ]

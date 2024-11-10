@@ -71,3 +71,7 @@ C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormSupplier.resources
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormHome.resources
 C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormAdminOrderDisplay.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.FormEmpMenu.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.ShowInventory.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.ShowOrders.resources
+C:\Users\manni\source\repos\C#\Database\InventoryMngtSystem\InventoryMngtSystem\obj\Debug\net8.0-windows\InventoryMngtSystem.ShowProducts.resources
