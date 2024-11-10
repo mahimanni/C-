@@ -68,7 +68,7 @@ namespace InventoryMngtSystem
                 //Check if the record already exists using the new function
                 if (IsDuplicateRecord(user_name, user_contactperson, user_email))
                 {
-                    MessageBox.Show("A record with these details already exists. Please enter unique details.");
+                    MessageBox.Show("A supplier with these details already exists. Please enter unique details.");
                     return;
                 }
                 cmd = new SqlCommand(sql, conn);
@@ -83,11 +83,11 @@ namespace InventoryMngtSystem
 
                 if (newId != null)
                 {
-                    MessageBox.Show("Record inserted successfully. New ID: " + newId.ToString());
+                    MessageBox.Show("Supplier added successfully. Supplier ID: " + newId.ToString());
                 }
                 else
                 {
-                    MessageBox.Show("Record inserted, but could not retrieve the ID.");
+                    MessageBox.Show("Supplier added, but could not retrieve the ID.");
                 }
             }
             catch (Exception ex)

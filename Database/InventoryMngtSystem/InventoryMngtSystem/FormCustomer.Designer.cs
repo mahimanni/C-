@@ -106,9 +106,9 @@
             label13.AutoSize = true;
             label13.Location = new Point(72, 460);
             label13.Name = "label13";
-            label13.Size = new Size(75, 25);
+            label13.Size = new Size(83, 25);
             label13.TabIndex = 30;
-            label13.Text = "Country";
+            label13.Text = "*Country";
             // 
             // textBox7
             // 
@@ -122,9 +122,9 @@
             label11.AutoSize = true;
             label11.Location = new Point(72, 418);
             label11.Name = "label11";
-            label11.Size = new Size(51, 25);
+            label11.Size = new Size(59, 25);
             label11.TabIndex = 28;
-            label11.Text = "State";
+            label11.Text = "*State";
             // 
             // textBox3
             // 
@@ -138,9 +138,9 @@
             label10.AutoSize = true;
             label10.Location = new Point(69, 374);
             label10.Name = "label10";
-            label10.Size = new Size(75, 25);
+            label10.Size = new Size(83, 25);
             label10.TabIndex = 26;
-            label10.Text = "Pincode";
+            label10.Text = "*Pincode";
             // 
             // radioButton3
             // 
@@ -243,9 +243,9 @@
             label9.AutoSize = true;
             label9.Location = new Point(69, 332);
             label9.Name = "label9";
-            label9.Size = new Size(77, 25);
+            label9.Size = new Size(85, 25);
             label9.TabIndex = 8;
-            label9.Text = "Address";
+            label9.Text = "*Address";
             // 
             // label8
             // 
@@ -261,27 +261,27 @@
             label7.AutoSize = true;
             label7.Location = new Point(64, 251);
             label7.Name = "label7";
-            label7.Size = new Size(87, 25);
+            label7.Size = new Size(95, 25);
             label7.TabIndex = 6;
-            label7.Text = "Password";
+            label7.Text = "*Password";
             // 
             // label6
             // 
             label6.AutoSize = true;
             label6.Location = new Point(66, 214);
             label6.Name = "label6";
-            label6.Size = new Size(91, 25);
+            label6.Size = new Size(99, 25);
             label6.TabIndex = 5;
-            label6.Text = "Phone No";
+            label6.Text = "*Phone No";
             // 
             // label5
             // 
             label5.AutoSize = true;
             label5.Location = new Point(66, 174);
             label5.Name = "label5";
-            label5.Size = new Size(54, 25);
+            label5.Size = new Size(62, 25);
             label5.TabIndex = 4;
-            label5.Text = "Email";
+            label5.Text = "*Email";
             // 
             // label4
             // 
@@ -297,27 +297,27 @@
             label3.AutoSize = true;
             label3.Location = new Point(60, 114);
             label3.Name = "label3";
-            label3.Size = new Size(69, 25);
+            label3.Size = new Size(77, 25);
             label3.TabIndex = 2;
-            label3.Text = "Gender";
+            label3.Text = "*Gender";
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Location = new Point(64, 77);
             label2.Name = "label2";
-            label2.Size = new Size(44, 25);
+            label2.Size = new Size(52, 25);
             label2.TabIndex = 1;
-            label2.Text = "Age";
+            label2.Text = "*Age";
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Location = new Point(64, 38);
             label1.Name = "label1";
-            label1.Size = new Size(59, 25);
+            label1.Size = new Size(67, 25);
             label1.TabIndex = 0;
-            label1.Text = "Name";
+            label1.Text = "*Name";
             // 
             // FormCustomer
             // 

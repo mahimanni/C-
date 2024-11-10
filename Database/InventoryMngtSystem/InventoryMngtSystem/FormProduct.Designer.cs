@@ -36,7 +36,6 @@
             button2 = new Button();
             button1 = new Button();
             groupBox2 = new GroupBox();
-            textBox7 = new TextBox();
             textBox6 = new TextBox();
             label8 = new Label();
             label7 = new Label();
@@ -52,6 +51,7 @@
             label3 = new Label();
             label2 = new Label();
             label1 = new Label();
+            comboBox1 = new ComboBox();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             SuspendLayout();
@@ -133,7 +133,7 @@
             // 
             // groupBox2
             // 
-            groupBox2.Controls.Add(textBox7);
+            groupBox2.Controls.Add(comboBox1);
             groupBox2.Controls.Add(textBox6);
             groupBox2.Controls.Add(label8);
             groupBox2.Controls.Add(label7);
@@ -155,13 +155,6 @@
             groupBox2.TabIndex = 3;
             groupBox2.TabStop = false;
             groupBox2.Text = "Product Details";
-            // 
-            // textBox7
-            // 
-            textBox7.Location = new Point(160, 310);
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(150, 31);
-            textBox7.TabIndex = 34;
             // 
             // textBox6
             // 
@@ -288,6 +281,14 @@
             label1.TabIndex = 0;
             label1.Text = "-----Personal Details-----";
             // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Location = new Point(159, 313);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(151, 33);
+            comboBox1.TabIndex = 34;
+            // 
             // FormProduct
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
@@ -324,11 +325,11 @@
         private Label label3;
         private Label label2;
         private Label label1;
-        private TextBox textBox7;
         private TextBox textBox6;
         private Label label8;
         private Label label7;
         private Label label6;
         private Label label5;
+        private ComboBox comboBox1;
     }
 }

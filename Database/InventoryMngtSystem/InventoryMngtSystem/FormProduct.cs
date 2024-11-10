@@ -12,6 +12,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using System.Diagnostics;
 using System.Security.Cryptography;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace InventoryMngtSystem
 {
@@ -26,6 +27,7 @@ namespace InventoryMngtSystem
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterScreen;
+            loadSupplierIDs();
         }
 
         private void FormProduct_Load(object sender, EventArgs e)
@@ -41,8 +43,23 @@ namespace InventoryMngtSystem
             product_quantity = textBox4.Text;
             product_price = textBox5.Text;
             product_category = textBox6.Text;
-            product_sid = textBox7.Text;
+            product_sid = comboBox1.Text;
 
+            if (product_name=="" || product_desc=="" || product_quantity=="" || product_price=="" || product_category=="" || product_sid=="")
+            {
+                MessageBox.Show("All fields are necessary to be filled");
+                return;
+            }
+            if (!product_quantity.All(char.IsDigit))
+            {
+                MessageBox.Show("Product quantity should be in numerals");
+                return;
+            }
+            if (!product_price.All(char.IsDigit))
+            {
+                MessageBox.Show("Product quantity should be in numerals");
+                return;
+            }
             // Define the SQL query with parameters
             sql = "insert into product  (pname, pdesc, pquantity, pprice, pcategory, sid)values(@name, @desc, @quantity, @price, @category, @sid);" + "SELECT SCOPE_IDENTITY();";
 
@@ -71,11 +88,11 @@ namespace InventoryMngtSystem
 
                 if (newId != null)
                 {
-                    MessageBox.Show("Record inserted successfully. New ID: " + newId.ToString());
+                    MessageBox.Show("Product added successfully. Product ID: " + newId.ToString());
                 }
                 else
                 {
-                    MessageBox.Show("Record inserted, but could not retrieve the ID.");
+                    MessageBox.Show("Product added, but could not retrieve the ID.");
                 }
             }
             catch (Exception ex)
@@ -108,6 +125,23 @@ namespace InventoryMngtSystem
 
                 return recordCount > 0; // If any record matches, return true (duplicate exists)
             }
+        }
+
+        private void loadSupplierIDs()
+        {
+            conn = new SqlConnection("Data Source=UNDIVIDED\\SQLEXPRESS;Initial Catalog=Inventory;Integrated Security=True;TrustServerCertificate=True");
+            string query = "SELECT sid FROM supplier";// SQL query to get all sids from the supplier table
+            conn.Open();// Open the connection
+            cmd = new SqlCommand(query,conn);
+            dr = cmd.ExecuteReader();// Execute the command and read the data
+                        
+            comboBox1.Items.Clear();// Clear the ComboBox before adding new items
+            
+            while (dr.Read())// Check if there are any rows returned
+            {            
+                comboBox1.Items.Add(dr["sid"].ToString());// Add each sid value from the supplier table to the ComboBox
+            }
+            conn.Close();
         }
 
         private void button1_Click(object sender, EventArgs e)

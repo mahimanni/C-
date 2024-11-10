@@ -120,8 +120,16 @@ namespace InventoryMngtSystem
                         fm.ShowDialog();
                         this.Close();*/
 
-                        FormOrder fo = new FormOrder();
-                        fo.ShowDialog();
+                        if (person == "Employee")
+                        {
+                            FormEmpMenu fem = new FormEmpMenu();
+                            this.ShowDialog();
+                        }
+                        else if(person=="Customer")
+                        {
+                            FormOrder fo = new FormOrder();
+                            fo.ShowDialog();
+                        }
                     }
                     else
                     {
